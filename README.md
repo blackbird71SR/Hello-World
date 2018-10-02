@@ -23,4 +23,12 @@ This repositiory should eventually contain the famous "Hello World" program in a
 
 ## Languages Covered
 
+- C
+- C++
+- C#
+- Go
+- Java
+- JavaScript
+- PHP
 - Python
+- Ruby
