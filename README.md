@@ -4,7 +4,7 @@ Hello World in all possible programming languages
 
 ## Aim
 
-This repositiory should eventually contain the famous "Hello World" program in all the programming languages possible...
+This repository should eventually contain the famous "Hello World" program in all the programming languages possible...
 
 ## How to Contribute to this repository
 
@@ -38,7 +38,7 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [x] Ruby
 - [ ] Objective-C
 - [ ] Swift
-- [ ] Kotlin
+- [x] Kotlin
 - [x] R
 - [x] Scala
 - [x] Rust
