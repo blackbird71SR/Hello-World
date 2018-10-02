@@ -45,6 +45,6 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [ ] PowerShell	
 - [ ] CoffeeScript
 - [ ] Perl	
-- [ ] Groovy	
+- [x] Groovy	
 - [ ] Haskell
 - [x] Elixir
