@@ -61,6 +61,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Crystal
 - [x] F#
 - [x] Pascal
+- [x] SQL
 
 ## Contributors
 
