@@ -43,7 +43,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Scala
 - [x] Rust
 - [x] Lua
-- [ ] Matlab
+- [x] Matlab
 - [ ] PowerShell
 - [ ] CoffeeScript
 - [x] Perl
