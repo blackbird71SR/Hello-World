@@ -30,7 +30,7 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [x] C		
 - [x] PHP		
 - [x] C#		
-- [ ] Shell
+- [x] Shell
 - [x] Go
 - [ ] TypeScript
 - [x] Ruby	
@@ -44,7 +44,7 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [ ] Matlab	
 - [ ] PowerShell	
 - [ ] CoffeeScript
-- [ ] Perl	
+- [x] Perl	
 - [ ] Groovy	
 - [ ] Haskell
 - [x] Elixir
