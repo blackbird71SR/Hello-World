@@ -27,27 +27,27 @@ This repositiory should eventually contain the famous "Hello World" program in a
 
 - [x] JavaScript
 - [x] Python
-- [x] Java
-- [x] C++
-- [x] C
-- [x] PHP
-- [x] C#
-- [ ] Shell
+- [x] Java	
+- [x] C++		
+- [x] C		
+- [x] PHP		
+- [x] C#		
+- [x] Shell
 - [x] Go
 - [ ] TypeScript
-- [x] Ruby
-- [ ] Objective-C
-- [ ] Swift
-- [ ] Kotlin
-- [ ] R
-- [ ] Scala
-- [ ] Rust
-- [ ] Lua
-- [ ] Matlab
-- [ ] PowerShell
+- [x] Ruby	
+- [ ] Objective-C	
+- [ ] Swift	
+- [ ] Kotlin	
+- [ ] R	
+- [x] Scala	
+- [ ] Rust	
+- [ ] Lua	
+- [ ] Matlab	
+- [ ] PowerShell	
 - [ ] CoffeeScript
-- [ ] Perl
-- [ ] Groovy
+- [ ] Perl	
+- [ ] Groovy	
 - [ ] Haskell
 - [x] Elixir
 - [x] HTML
