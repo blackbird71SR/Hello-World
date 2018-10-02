@@ -46,7 +46,7 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [ ] Matlab	
 - [ ] PowerShell	
 - [ ] CoffeeScript
-- [ ] Perl	
+- [x] Perl	
 - [ ] Groovy	
 - [ ] Haskell
 - [x] Elixir
