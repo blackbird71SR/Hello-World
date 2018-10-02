@@ -56,6 +56,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Assembly
 - [x] Lisp
 - [x] Prolog
+- [x] Fortran
 - [x] VB.NET
 
 ## Contributors
