@@ -37,7 +37,7 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [ ] TypeScript
 - [x] Ruby	
 - [ ] Objective-C	
-- [ ] Swift	
+- [x] Swift	
 - [ ] Kotlin	
 - [x] R	
 - [x] Scala	
