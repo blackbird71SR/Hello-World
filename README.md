@@ -39,7 +39,7 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [ ] Objective-C	
 - [ ] Swift	
 - [ ] Kotlin	
-- [ ] R	
+- [x] R	
 - [x] Scala	
 - [ ] Rust	
 - [ ] Lua	
@@ -47,7 +47,7 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [ ] PowerShell	
 - [ ] CoffeeScript
 - [x] Perl	
-- [ ] Groovy	
+- [x] Groovy	
 - [ ] Haskell
 - [x] Elixir
 - [x] HTML
