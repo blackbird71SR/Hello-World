@@ -23,3 +23,4 @@ This repositiory should eventually contain the famous "Hello World" program in a
 
 ## Langauges Covered
 
+- Python
