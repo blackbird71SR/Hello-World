@@ -34,7 +34,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] C#		
 - [x] Shell
 - [x] Go
-- [ ] TypeScript
+- [x] TypeScript
 - [x] Ruby
 - [ ] Objective-C
 - [x] Swift
