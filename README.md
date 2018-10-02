@@ -45,7 +45,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Lua
 - [ ] Matlab
 - [ ] PowerShell
-- [ ] CoffeeScript
+- [x] CoffeeScript
 - [x] Perl
 - [x] Groovy
 - [x] Haskell
