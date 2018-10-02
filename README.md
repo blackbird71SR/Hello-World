@@ -36,7 +36,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Go
 - [x] TypeScript
 - [x] Ruby
-- [ ] Objective-C
+- [x] Objective-C
 - [x] Swift
 - [x] Kotlin
 - [x] R
