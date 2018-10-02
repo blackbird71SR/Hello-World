@@ -41,7 +41,7 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [ ] Kotlin	
 - [x] R	
 - [x] Scala	
-- [ ] Rust	
+- [x] Rust	
 - [x] Lua	
 - [ ] Matlab	
 - [ ] PowerShell	
@@ -53,3 +53,6 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [x] D
 - [x] HTML
 - [x] Julia
+- [x] Assembly
+- [x] Lisp
+- [x] Prolog
