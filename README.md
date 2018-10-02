@@ -40,7 +40,7 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [ ] Swift
 - [ ] Kotlin
 - [ ] R
-- [] Scala
+- [ ] Scala
 - [ ] Rust
 - [ ] Lua
 - [ ] Matlab
