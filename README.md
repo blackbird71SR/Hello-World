@@ -48,7 +48,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [ ] CoffeeScript
 - [x] Perl
 - [x] Groovy
-- [ ] Haskell
+- [x] Haskell
 - [x] Elixir
 - [x] D
 - [x] HTML
