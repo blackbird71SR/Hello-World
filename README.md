@@ -42,7 +42,7 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [x] R	
 - [x] Scala	
 - [ ] Rust	
-- [ ] Lua	
+- [x] Lua	
 - [ ] Matlab	
 - [ ] PowerShell	
 - [ ] CoffeeScript
