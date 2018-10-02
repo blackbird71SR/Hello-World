@@ -49,3 +49,5 @@ This repositiory should eventually contain the famous "Hello World" program in a
 - [ ] Haskell
 - [x] Elixir
 - [x] D
+- [x] HTML
+- [x] Julia
