@@ -23,12 +23,28 @@ This repositiory should eventually contain the famous "Hello World" program in a
 
 ## Languages Covered
 
-- Python
-- C++
-- C#
-- Go
-- Java
-- JavaScript
-- PHP
-- Ruby
-- C
+- [x] JavaScript
+- [x] Python
+- [x] Java	
+- [x] C++		
+- [x] C		
+- [x] PHP		
+- [x] C#		
+- [ ] Shell
+- [x] Go
+- [ ] TypeScript
+- [x] Ruby	
+- [ ] Objective-C	
+- [ ] Swift	
+- [ ] Kotlin	
+- [ ] R	
+- [ ] Scala	
+- [ ] Rust	
+- [ ] Lua	
+- [ ] Matlab	
+- [ ] PowerShell	
+- [ ] CoffeeScript
+- [ ] Perl	
+- [ ] Groovy	
+- [ ] Haskell
+- [x] Elixir
