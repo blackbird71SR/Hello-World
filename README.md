@@ -57,7 +57,7 @@ CoffeeScript is a programming language that transcompiles to JavaScript. It adds
 
 - [x] **D**
 
-- [x] **Dart Language	**
+- [x] **Dart**
 
 - [x] **Delphi**
 
