@@ -24,11 +24,17 @@ This repository should eventually contain the famous "Hello World" program in al
 - Add your language to this file in the below list.
 
 ## Languages Covered
-- [x] ABAP
-- [x] Assembly
-- [x] Autoit
-- [x] BASIC
-- [x] Brainfuck
+
+- [x] **ABAP**
+
+- [x] **Assembly**
+
+- [x] **Autoit**
+
+- [x] **BASIC**
+
+- [x] **Brainfuck**
+
 - [x] **C**
 
 C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
@@ -45,20 +51,30 @@ C++ is a general-purpose object-oriented programming (OOP) language, developed b
 
 CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matching
 
-- [x] ClojureScript
-- [x] Crystal
-- [x] D
-- [x] Dart Language	
-- [x] Delphi
-- [x] Elixir
-- [x] F#
-- [x] Fortran
+- [x] **ClojureScript**
+
+- [x] **Crystal**
+
+- [x] **D**
+
+- [x] **Dart Language	**
+
+- [x] **Delphi**
+
+- [x] **Elixir**
+
+- [x] **F#**
+
+- [x] **Fortran**
+
 - [x] **Go**
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 
-- [x] Groovy
-- [x] Haskell
+- [x] **Groovy**
+
+- [x] **Haskell**
+
 - [x] **HTML**
 
 Html Stands For Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
@@ -71,40 +87,62 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.
 
-- [x] Julia
-- [x] Juliar
+- [x] **Julia**
+
+- [x] **Juliar**
+
 - [x] **Kotlin**
 
 Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework. 
 
-- [x] Lisp
-- [x] Lua
-- [x] Matlab
-- [x] Objective-C
-- [x] Pascal
-- [x] Perl
-- [x] Perl 6
+- [x] **Lisp**
+
+- [x] **Lua**
+
+- [x] **Matlab**
+
+- [x] **Objective-C**
+
+- [x] **Pascal**
+
+- [x] **Perl**
+
+- [x] **Perl 6**
+
 - [x] **PHP**
 
 PHP: Hypertext Preprocessor is a server-side scripting language designed for Web development, but also used as a general-purpose programming language. It was originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Group.
 
-- [x] PostScript
-- [x] PowerShell
-- [x] Prolog
-- [x] Python
-- [x] R
-- [x] Ruby
-- [x] Rust
-- [x] Scala
-- [x] Shell
-- [x] SQL
+- [x] **PostScript**
+
+- [x] **PowerShell**
+
+- [x] **Prolog**
+
+- [x] **Python**
+
+- [x] **R**
+
+- [x] **Ruby**
+
+- [x] **Rust**
+
+- [x] **Scala**
+
+- [x] **Shell**
+
+- [x] **SQL**
+
 - [x] **Swift**
 
 Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, macOS, watchOS, tvOS, and Linux. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products.
 
-- [x] Tool Comman Language(TCL)
-- [x] TypeScript
-- [x] VB.NET
+- [x] **Tool Comman Language(TCL)**
+
+- [x] **TypeScript**
+
+- [x] **VB.NET**
+
 
 ## Contributors
 
