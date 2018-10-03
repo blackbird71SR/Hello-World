@@ -111,6 +111,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Objective-C**
 
+- [x] **OCaml**
+
+OCaml or Objective Caml, is a general purpose programming language with an emphasis on expressiveness and safety.
+
 - [x] **Pascal**
 
 - [x] **Perl**
