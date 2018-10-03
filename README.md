@@ -31,7 +31,8 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] C++		
 - [x] C		
 - [x] PHP		
-- [x] C#		
+- [x] C#	
+- [x] Dart Language	
 - [x] Shell
 - [x] Go
 - [x] TypeScript
@@ -44,9 +45,10 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Rust
 - [x] Lua
 - [x] Matlab
-- [ ] PowerShell
+- [x] PowerShell
 - [x] CoffeeScript
 - [x] Perl
+- [x] Perl 6
 - [x] Groovy
 - [x] Haskell
 - [x] Elixir
@@ -63,6 +65,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Pascal
 - [x] SQL
 - [x] PostScript
+- [x] Delphi
 
 ## Contributors
 
