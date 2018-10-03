@@ -27,10 +27,18 @@ This repository should eventually contain the famous "Hello World" program in al
 
 - [x] Assembly
 - [x] Autoit
-- [x] C
+- [x] **C**
+
 C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
-- [x] C#	
-- [x] C++		
+
+- [x] **C#**
+
+C# is a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a standard by Ecma and ISO.
+
+- [x] **C++**
+
+C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language. It is therefore possible to code C++ in a "C style" or "object-oriented style." C++ is considered to be an intermediate-level language, as it encapsulates both high- and low-level language features. Initially, the language was called "C with classes" as it had all the properties of the C language with an additional concept of "classes."
+
 - [x] CoffeeScript
 - [x] Crystal
 - [x] D
@@ -39,11 +47,17 @@ C is a high-level and general-purpose programming language that is ideal for dev
 - [x] Elixir
 - [x] F#
 - [x] Fortran
-- [x] Go
+- [x] **Go**
+
+Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+
 - [x] Groovy
 - [x] Haskell
 - [x] HTML
+Html Stands For Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+
 - [x] Java
+Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
 
 - [x] **JavaScript**
 
