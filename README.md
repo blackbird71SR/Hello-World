@@ -35,6 +35,10 @@ This repository should eventually contain the famous "Hello World" program in al
   
 BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
 
+- [x] **Batch**
+
+A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file.
+
 - [x] **Brainfuck**
 
 - [x] **C**
