@@ -27,6 +27,7 @@ This repository should eventually contain the famous "Hello World" program in al
 
 - [x] Assembly
 - [x] Autoit
+- [x] BASIC
 - [x] C		
 - [x] C#	
 - [x] C++		
