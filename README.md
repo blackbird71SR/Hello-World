@@ -40,6 +40,7 @@ C# is a general-purpose, multi-paradigm programming language encompassing strong
 C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language. It is therefore possible to code C++ in a "C style" or "object-oriented style." C++ is considered to be an intermediate-level language, as it encapsulates both high- and low-level language features. Initially, the language was called "C with classes" as it had all the properties of the C language with an additional concept of "classes."
 
 - [x] CoffeeScript
+CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matching
 - [x] Crystal
 - [x] D
 - [x] Dart Language	
