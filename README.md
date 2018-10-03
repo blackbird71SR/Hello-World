@@ -29,6 +29,8 @@ This repository should eventually contain the famous "Hello World" program in al
 
 - [x] **Assembly**
 
+A program written in assembly language consists of a series of mnemonic processor instructions and meta-statements (known variously as directives, pseudo-instructions and pseudo-ops), comments and data. Assembly language instructions usually consist of an opcode mnemonic followed by a list of data, arguments or parameters.
+
 - [x] **Autoit**
 
 - [x] **BASIC**
@@ -51,6 +53,8 @@ C++ is a general-purpose object-oriented programming (OOP) language, developed b
 
 - [x] **Cobol**
 
+COBOL was designed in 1959 by CODASYL and was partly based on previous programming language design work by Grace Hopper, commonly referred to as "the (grand)mother of COBOL". It was created as part of a US Department of Defense effort to create a portable programming language for data processing.
+
 - [x] **CoffeeScript**
 
 CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matching
@@ -62,6 +66,8 @@ CoffeeScript is a programming language that transcompiles to JavaScript. It adds
 - [x] **D**
 
 - [x] **Dart**
+
+Dart is a general-purpose programming language originally developed by Google and later approved as a standard by Ecma. It is used to build web, server, and mobile applications
 
 - [x] **Delphi**
 
