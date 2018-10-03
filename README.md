@@ -63,6 +63,8 @@ CoffeeScript is a programming language that transcompiles to JavaScript. It adds
 
 - [x] **Crystal**
 
+Crystal is a programming language that is still under development which aims to provide a programming experience that is “Fast as C, slick as Ruby”.
+
 - [x] **D**
 
 - [x] **Dart**
