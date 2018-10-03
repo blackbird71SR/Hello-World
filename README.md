@@ -63,6 +63,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Pascal
 - [x] SQL
 - [x] PostScript
+- [x] Autoit
 
 ## Contributors
 
