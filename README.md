@@ -49,7 +49,10 @@ This repository should eventually contain the famous "Hello World" program in al
 JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.
 
 - [x] Julia
-- [x] Kotlin
+- [x] **Kotlin**
+
+Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework. 
+
 - [x] Lisp
 - [x] Lua
 - [x] Matlab
