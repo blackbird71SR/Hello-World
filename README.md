@@ -115,6 +115,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+- [x] **Nim**
+
+Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
+
 - [x] **Objective-C**
 
 - [x] **OCaml**
