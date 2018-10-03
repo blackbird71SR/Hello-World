@@ -39,6 +39,9 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] F#
 - [x] Fortran
 - [x] Go
+
+Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+
 - [x] Groovy
 - [x] Haskell
 - [x] HTML
