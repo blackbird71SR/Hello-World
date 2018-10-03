@@ -28,9 +28,14 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Assembly
 - [x] Autoit
 - [x] C		
-- [x] C#
+- [x] **C#**
+
 C# is a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a standard by Ecma and ISO.
-- [x] C++		
+
+- [x] **C++**
+
+C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language. It is therefore possible to code C++ in a "C style" or "object-oriented style." C++ is considered to be an intermediate-level language, as it encapsulates both high- and low-level language features. Initially, the language was called "C with classes" as it had all the properties of the C language with an additional concept of "classes."
+
 - [x] CoffeeScript
 - [x] Crystal
 - [x] D
