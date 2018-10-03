@@ -27,6 +27,7 @@ This repository should eventually contain the famous "Hello World" program in al
 
 - [x] Assembly
 - [x] Autoit
+- [x] BASIC
 - [x] **C**
 
 C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
@@ -43,6 +44,7 @@ C++ is a general-purpose object-oriented programming (OOP) language, developed b
 
 CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matching
 
+- [x] ClojureScript
 - [x] Crystal
 - [x] D
 - [x] Dart Language	
