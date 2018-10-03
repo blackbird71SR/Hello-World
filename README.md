@@ -31,7 +31,8 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] C++		
 - [x] C		
 - [x] PHP		
-- [x] C#		
+- [x] C#	
+- [x] Dart Language	
 - [x] Shell
 - [x] Go
 - [x] TypeScript
