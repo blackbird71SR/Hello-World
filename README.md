@@ -32,6 +32,8 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] **Autoit**
 
 - [x] **BASIC**
+  
+BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
 
 - [x] **Brainfuck**
 
