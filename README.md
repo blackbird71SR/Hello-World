@@ -39,8 +39,10 @@ C# is a general-purpose, multi-paradigm programming language encompassing strong
 
 C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language. It is therefore possible to code C++ in a "C style" or "object-oriented style." C++ is considered to be an intermediate-level language, as it encapsulates both high- and low-level language features. Initially, the language was called "C with classes" as it had all the properties of the C language with an additional concept of "classes."
 
-- [x] CoffeeScript
+- [x] **CoffeeScript**
+
 CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matching
+
 - [x] Crystal
 - [x] D
 - [x] Dart Language	
@@ -54,10 +56,12 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 
 - [x] Groovy
 - [x] Haskell
-- [x] HTML
+- [x] **HTML**
+
 Html Stands For Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
 
-- [x] Java
+- [x] **Java**
+
 Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
 
 - [x] **JavaScript**
@@ -76,8 +80,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 - [x] Pascal
 - [x] Perl
 - [x] Perl 6
-- [x] PHP		
+- [x] **PHP**
+
 PHP: Hypertext Preprocessor is a server-side scripting language designed for Web development, but also used as a general-purpose programming language. It was originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Group.
+
 - [x] PostScript
 - [x] PowerShell
 - [x] Prolog
@@ -88,8 +94,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 - [x] Scala
 - [x] Shell
 - [x] SQL
-- [x] Swift
+- [x] **Swift**
+
 Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, macOS, watchOS, tvOS, and Linux. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products.
+
 - [x] TypeScript
 - [x] VB.NET
 
