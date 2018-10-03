@@ -28,7 +28,8 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Assembly
 - [x] Autoit
 - [x] C		
-- [x] C#	
+- [x] C#
+C# is a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a standard by Ecma and ISO.
 - [x] C++		
 - [x] CoffeeScript
 - [x] Crystal
