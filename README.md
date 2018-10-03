@@ -25,43 +25,53 @@ This repository should eventually contain the famous "Hello World" program in al
 
 ## Languages Covered
 
-- [x] JavaScript
-- [x] Python
-- [x] Java
-- [x] C++		
+- [x] Assembly
+- [x] Autoit
 - [x] C		
-- [x] PHP		
-- [x] C#		
-- [x] Shell
-- [x] Go
-- [x] TypeScript
-- [x] Ruby
-- [x] Objective-C
-- [x] Swift
-- [x] Kotlin
-- [x] R
-- [x] Scala
-- [x] Rust
-- [x] Lua
-- [x] Matlab
-- [ ] PowerShell
+- [x] C#	
+- [x] C++		
 - [x] CoffeeScript
-- [x] Perl
+- [x] Crystal
+- [x] D
+- [x] Dart Language	
+- [x] Delphi
+- [x] Elixir
+- [x] F#
+- [x] Fortran
+- [x] Go
 - [x] Groovy
 - [x] Haskell
-- [x] Elixir
-- [x] D
 - [x] HTML
+- [x] Java
+
+- [x] **JavaScript**
+
+JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.
+
 - [x] Julia
-- [x] Assembly
+- [x] Juliar
+- [x] Kotlin
 - [x] Lisp
-- [x] Prolog
-- [x] Fortran
-- [x] VB.NET
-- [x] Crystal
-- [x] F#
+- [x] Lua
+- [x] Matlab
+- [x] Objective-C
 - [x] Pascal
+- [x] Perl
+- [x] Perl 6
+- [x] PHP		
+- [x] PostScript
+- [x] PowerShell
+- [x] Prolog
+- [x] Python
+- [x] R
+- [x] Ruby
+- [x] Rust
+- [x] Scala
+- [x] Shell
 - [x] SQL
+- [x] Swift
+- [x] TypeScript
+- [x] VB.NET
 
 ## Contributors
 
