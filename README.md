@@ -44,7 +44,10 @@ C++ is a general-purpose object-oriented programming (OOP) language, developed b
 - [x] Elixir
 - [x] F#
 - [x] Fortran
-- [x] Go
+- [x] **Go**
+
+Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+
 - [x] Groovy
 - [x] Haskell
 - [x] HTML
