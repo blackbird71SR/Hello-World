@@ -77,6 +77,7 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 - [x] Perl
 - [x] Perl 6
 - [x] PHP		
+PHP: Hypertext Preprocessor is a server-side scripting language designed for Web development, but also used as a general-purpose programming language. It was originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Group.
 - [x] PostScript
 - [x] PowerShell
 - [x] Prolog
