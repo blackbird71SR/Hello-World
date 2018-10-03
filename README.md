@@ -151,6 +151,10 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **SQL**
 
+- [x] **Standard ML**
+
+Standard ML is a general-purpose, modular, functional programming language with compile-time type checking and type inference; and a descendant of the ML programming language used in the Logic for Computable Functions theorem-proving project.
+
 - [x] **Swift**
 
 Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, macOS, watchOS, tvOS, and Linux. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products.
