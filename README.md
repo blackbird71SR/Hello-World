@@ -44,7 +44,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Rust
 - [x] Lua
 - [x] Matlab
-- [ ] PowerShell
+- [x] PowerShell
 - [x] CoffeeScript
 - [x] Perl
 - [x] Groovy
@@ -62,6 +62,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] F#
 - [x] Pascal
 - [x] SQL
+- [x] Delphi
 
 ## Contributors
 
