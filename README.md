@@ -48,6 +48,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] PowerShell
 - [x] CoffeeScript
 - [x] Perl
+- [x] Perl 6
 - [x] Groovy
 - [x] Haskell
 - [x] Elixir
@@ -63,6 +64,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] F#
 - [x] Pascal
 - [x] SQL
+- [x] PostScript
 - [x] Delphi
 
 ## Contributors
