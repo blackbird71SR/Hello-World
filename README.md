@@ -31,6 +31,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] C#	
 - [x] C++		
 - [x] CoffeeScript
+CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matching
 - [x] Crystal
 - [x] D
 - [x] Dart Language	
