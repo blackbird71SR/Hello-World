@@ -32,6 +32,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] C#	
 - [x] C++		
 - [x] CoffeeScript
+- [x] ClojureScript
 - [x] Crystal
 - [x] D
 - [x] Dart Language	
