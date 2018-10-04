@@ -162,6 +162,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Scala**
 
+- [x] **Scheme**
+
+The Scheme programming language is a general purpose language in the LISP family. It is a high level language that supports multiple paradigms including functional and imperative. The core language is very small but has powerful tools for extending the language. The standard language supports lexical scoping, closures, proper tail calls, continuations, ..., all datatypes like strings, unbounded integers, exact ratios, real and complex numbers, symbols, lists, structures, ...
+
 - [x] **Shakespeare**
 
 The Shakespeare Programming Language is a programming language created with the design goal to make the source code resemble Shakespeare plays.  There are no fancy data or control structures, just basic arithmetic and gotos. The language combines the expressiveness of BASIC with the user-friendliness of assembly language, but is much more verbose.
