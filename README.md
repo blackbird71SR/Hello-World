@@ -110,6 +110,10 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 
 - [x] **Haskell**
 
+- [x] **Haxe**
+
+Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities. https://haxe.org/
+
 - [x] **HTML**
 
 Html Stands For Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
