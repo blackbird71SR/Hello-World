@@ -28,6 +28,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] **ABAP**
 
 - [x] **Assembly**
+An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
 
 - [x] **Autoit**
 
