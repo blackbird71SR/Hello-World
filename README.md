@@ -90,6 +90,8 @@ Delphi is both an object oriented programming language (OOP) and an Integrated D
 
 - [x] **Elixir**
 
+Elixir is a functional, concurrent, general-purpose programming language that runs on the Erlang virtual machine. Elixir builds on top of Erlang and shares the same abstractions for building distributed, fault-tolerant applications. Elixir also provides a productive tooling and an extensible design.
+
 - [x] **Emojic**
 
 - [x] **Erlang**
