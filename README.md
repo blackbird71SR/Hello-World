@@ -152,6 +152,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Prolog**
 
+Prolog is a logic programming language associated with artificial intelligence and computational linguistics.
+
 - [x] **Python**
 
 - [x] **R**
