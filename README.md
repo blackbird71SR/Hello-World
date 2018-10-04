@@ -29,6 +29,10 @@ This repository should eventually contain the famous "Hello World" program in al
 
 - [x] **ABC**
 
+- [x] **ACPI Source Language**
+
+- [x] **Action!**
+
 - [x] **Assembly**
 
 - [x] **Autoit**
