@@ -148,6 +148,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **PostScript**
 
+PostScript is a page description language in the electronic publishing and desktop publishing business. It is a dynamically typed, concatenative programming language and was created at Adobe Systems by John Warnock, Charles Geschke, Doug Brotz, Ed Taft and Bill Paxton from 1982 to 1984.
+
 - [x] **PowerShell**
 
 - [x] **Prolog**
