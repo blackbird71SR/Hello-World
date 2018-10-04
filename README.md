@@ -61,8 +61,7 @@ COOL or Classroom Object Oriented Language is used for teaching compilers and is
 
 - [x] **CoffeeScript**
 
-CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matching
-
+CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matc
 - [x] **ClojureScript**
 
 - [x] **Crystal**
@@ -78,6 +77,8 @@ Dart is a general-purpose programming language originally developed by Google an
 - [x] **Delphi**
 
 - [x] **Elixir**
+
+- [x] **Emojic**
 
 - [x] **Erlang**
 
@@ -188,7 +189,6 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 - [x] **Whitespace**
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
-
 
 ## Contributors
 
