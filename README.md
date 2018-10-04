@@ -29,7 +29,12 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Autoit
 - [x] C		
 - [x] C#	
-- [x] C++		
+- [x] **C++**
+
+C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language. It is therefore possible to code C++ in a "C style" or "object-oriented style." In certain scenarios, it can be coded in either way and is thus an effective example of a hybrid language.
+The main highlight of C++ is a collection of predefined classes, which are data types that can be instantiated multiple times. The language also facilitates declaration of user-defined classes. 
+
+
 - [x] CoffeeScript
 - [x] Crystal
 - [x] D
@@ -43,10 +48,12 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] Haskell
 - [x] HTML
 - [x] Java
+- [x] Tcl
 
 - [x] **JavaScript**
 
 JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.
+
 
 - [x] Julia
 - [x] Kotlin
