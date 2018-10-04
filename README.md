@@ -142,6 +142,8 @@ OCaml or Objective Caml, is a general purpose programming language with an empha
 
 - [x] **Perl 6**
 
+Perl 6 is a member of the Perl family of programming languages. While historically several interpreter and compiler implementations were being written, today only the Rakudo Perl 6 implementation is in active development. It is introducing elements of many modern and historical languages.
+
 - [x] **PHP**
 
 PHP: Hypertext Preprocessor is a server-side scripting language designed for Web development, but also used as a general-purpose programming language. It was originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Group.
