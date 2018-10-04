@@ -84,6 +84,8 @@ Dart is a general-purpose programming language originally developed by Google an
 
 - [x] **Delphi**
 
+Delphi is both an object oriented programming language (OOP) and an Integrated Development Environment (IDE). Published by the Embarcadero company (formerly CodeGear and more formerly Borland), Delphi is an alternative to language such as Visual Basic offering development with both rapidity and good quality. 
+
 - [x] **Elixir**
 
 - [x] **Emojic**
