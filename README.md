@@ -64,6 +64,8 @@ COOL or Classroom Object Oriented Language is used for teaching compilers and is
 CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matc
 - [x] **ClojureScript**
 
+Clojure is a dialect of the Lisp programming language. Clojure is a general-purpose programming language with an emphasis on functional programming. It runs on the Java virtual machine and the Common Language Runtime.
+
 - [x] **Crystal**
 
 Crystal is a programming language that is still under development which aims to provide a programming experience that is “Fast as C, slick as Ruby”.
