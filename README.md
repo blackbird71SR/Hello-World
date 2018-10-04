@@ -26,13 +26,17 @@ This repository should eventually contain the famous "Hello World" program in al
 ## Languages Covered
 
 - [x] **ABAP**
+- [x] **Ada**
+
+Ada is a programming language suitable for all development needs. It has built-in features that directly support structured, object-oriented, generic, distributed and concurrent programming. Ada is used Rapid Application Development, Extreme Programming (XP), and Free Software development. Ada is named after Augusta Ada King-Noel, Countess of Lovelace.
+
 
 - [x] **Assembly**
 
 - [x] **Autoit**
 
 - [x] **BASIC**
-  
+
 BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
 
 - [x] **Batch**
