@@ -68,9 +68,17 @@ COOL or Classroom Object Oriented Language is used for teaching compilers and is
 - [x] **CoffeeScript**
 
 CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matc
+
+- [x] **Clean**
+Clean is a general-purpose purely functional computer programming language. For much of the language's active development history it was called Concurrent Clean, but this was dropped at some point.Clean's method for dealing with mutable state and I/O is done through a uniqueness typing system, in contrast to Haskell's use of monads. The compiler takes advantage of the uniqueness type system to generate more efficient code, because it knows that anything with a uniqueness type can only be used once. Therefore, a unique value can be changed in place
+
 - [x] **ClojureScript**
 
 Clojure is a dialect of the Lisp programming language. Clojure is a general-purpose programming language with an emphasis on functional programming. It runs on the Java virtual machine and the Common Language Runtime.
+
+- [x] **ColdFusion**
+
+ColdFusion is a rapid development platform for building modern web applications. ColdFusion is designed to be expressive and powerful. The expressive characteristic allows you to perform programming tasks at a higher level than most other languages. The powerful characteristic gives you integration with functionality important to web applications like database access, MS Exchange access, PDF form creation and more.
 
 - [x] **Crystal**
 
@@ -87,6 +95,10 @@ Dart is a general-purpose programming language originally developed by Google an
 - [x] **Delphi**
 
 Delphi is both an object oriented programming language (OOP) and an Integrated Development Environment (IDE). Published by the Embarcadero company (formerly CodeGear and more formerly Borland), Delphi is an alternative to language such as Visual Basic offering development with both rapidity and good quality. 
+
+- [x] **EGL**
+
+EGL (Enterprise Generation Language), originally developed by IBM and now available as the EDT (EGL Development Tools). Open Source project under the Eclipse Public License (EPL), is a programming technology designed to meet the challenges of modern, multi-platform application development by providing a common language and programming model across languages, frameworks, and runtime platforms. The language borrows concepts familiar to anyone using statically typed languages like Java, COBOL, C, etc. However, it borrows the concept of stereotype from Unified Modeling Language (UML) that is not typically found in statically typed programming languages.
 
 - [x] **Elixir**
 
@@ -139,6 +151,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 - [x] **Lua**
 
 - [x] **Matlab**
+
+- [x] **MOO**
+
+The MOO programming language is a relatively simple programming language used to support the MOO Server. It is dynamically typed and uses a prototype-based object-oriented system, with syntax roughly derived from the Algol school of programming languages.
 
 - [x] **Nim**
 
@@ -203,6 +219,15 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 - [x] **Whitespace**
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
+
+- [x] **X++**
+
+X++ was designed to be a superset of Java with strong data access features. In some ways the data access features were like LINQ, but it is much older and in some ways more powerful. For example, X++ supports set-based manipulation of data via the insert_recordset, update_recordset, and delete_from keywords. These map to Insert, Update, and Delete statements in SQL. While this generally offers the best performance, you can also use a hybrid approach that combines set-based access with imperative-style statements.
+
+- [x] **XQuery**
+
+XQuery (XML Query) is a query and functional programming language that queries and transforms collections of structured and unstructured data, usually in the form of XML, text and with vendor-specific extensions for other data formats (JSON, binary, etc.). The language is developed by the XML Query working group of the W3C. The work is closely coordinated with the development of XSLT by the XSL Working Group; the two groups share responsibility for XPath, which is a subset of XQuery.
+
 
 ## Contributors
 
