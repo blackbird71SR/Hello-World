@@ -184,7 +184,7 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Solidity**
 
-- [x] **SQL**
+- [x] **SQL**  or **S**tructured **Q**uery **L**anguage is the standard method used to communicate with relational databases. SQL uses static, strong typing and is primarily considered a declarative language, but does include some procedural elements. 
 
 - [x] **Standard ML**
 
