@@ -100,6 +100,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **F#**
 
+- [x] **Fetlang**
+
 - [x] **Fortran**
 
 - [x] **Go**
