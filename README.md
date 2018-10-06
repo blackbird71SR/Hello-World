@@ -204,6 +204,10 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
 
+- [x] **Jquery**
+
+jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML.It is free, open-source software using the permissive MIT License.Web analysis indicates that it is the most widely deployed JavaScript library by a large margin
+
 ## Contributors
 
 [![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/0)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/0)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/1)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/1)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/2)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/2)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/3)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/3)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/4)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/4)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/5)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/5)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/6)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/6)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/7)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/7)
