@@ -1,0 +1,10 @@
+package your.package;
+
+public class HelloWorld{
+  
+  public static void main(String[] ...){
+     String message = "Hello World!! =)";
+     System.out.println(message);
+  }
+
+}
