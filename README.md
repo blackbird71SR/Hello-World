@@ -123,6 +123,10 @@ Html Stands For Hypertext Markup Language (HTML) is the standard markup language
 
 INTERCAL was created in 1972 by two hackers from Princeton as a parody to satirizes various aspects of programming languages then. Anything that the compiler couldn't understand got skipped and the entire code read like someone pleading. The language was Turing-complete, and hence capable of implementing any algorithm. Though the programmer might be driven into advanced stages of insanity from the attempt.
 
+- [x] **l33t**
+
+l33t is a brainfuck-like esoteric programming language in which source code resembles "1337 5p34k". l33t was created by Stephen McGreal and Alex Mole. It can make network connections, making it the ideal language for crackers and scriptkiddies.
+
 - [x] **Java**
 
 Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
