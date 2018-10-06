@@ -28,6 +28,9 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
+- [x] **Arnold C**
+Arnold C is an esoteric programming language based on the one-liners of Arnold Schwarzenegger.
+
 - [x] **Assembly**
 An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
 
@@ -100,6 +103,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **F#**
 
+- [x] **Fetlang**
+
 - [x] **Fortran**
 
 - [x] **Go**
@@ -118,6 +123,10 @@ Html Stands For Hypertext Markup Language (HTML) is the standard markup language
 
 INTERCAL was created in 1972 by two hackers from Princeton as a parody to satirizes various aspects of programming languages then. Anything that the compiler couldn't understand got skipped and the entire code read like someone pleading. The language was Turing-complete, and hence capable of implementing any algorithm. Though the programmer might be driven into advanced stages of insanity from the attempt.
 
+- [x] **l33t**
+
+l33t is a brainfuck-like esoteric programming language in which source code resembles "1337 5p34k". l33t was created by Stephen McGreal and Alex Mole. It can make network connections, making it the ideal language for crackers and scriptkiddies.
+
 - [x] **Java**
 
 Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
@@ -135,6 +144,8 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework. 
 
 - [x] **Lisp**
+
+- [x] **LOLCODE**
 
 - [x] **Lua**
 
