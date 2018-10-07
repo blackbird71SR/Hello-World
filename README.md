@@ -110,6 +110,7 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 - [x] **Groovy**
 
 - [x] **Haskell**
+Haskell is a purely FunctionalProgrammingLanguage using NonStrictSemantics (typically implemented as LazyEvaluation) and a polymorphic type system (an extension of the classical HindleyMilnerTypeInference algorithm).
 
 - [x] **HTML**
 
