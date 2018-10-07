@@ -26,16 +26,19 @@ This repository should eventually contain the famous "Hello World" program in al
 ## Languages Covered
 
 - [x] **ABAP**
+
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
 - [x] **Assembly**
+
 An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
 
 - [x] **Autoit**
+
 AutoIt is a freeware automation language for Microsoft Windows. In its earliest release, the software was primarily intended to create automation scripts for Microsoft Windows programs but has since grown to include enhancements in both programming language design and overall functionality.
+
 - [x] **BASIC**
-BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
-  
+
 BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
 
 - [x] **Batch**
@@ -43,6 +46,7 @@ BASIC is a family of general-purpose, high-level programming languages whose des
 A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file.
 
 - [x] **Brainfuck**
+
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
 
 - [x] **C**
@@ -68,6 +72,7 @@ COOL or Classroom Object Oriented Language is used for teaching compilers and is
 - [x] **CoffeeScript**
 
 CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matc
+
 - [x] **ClojureScript**
 
 Clojure is a dialect of the Lisp programming language. Clojure is a general-purpose programming language with an emphasis on functional programming. It runs on the Java virtual machine and the Common Language Runtime.
