@@ -42,6 +42,10 @@ BASIC is a family of general-purpose, high-level programming languages whose des
 
 A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file.
 
+- [x] **Befunge**
+
+Befunge is a two-dimensional fungeoidal (in fact, the original fungeoid) esoteric programming language invented in 1993 by Chris Pressey with the goal of being as difficult to compile as possible.
+
 - [x] **Brainfuck**
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
 
