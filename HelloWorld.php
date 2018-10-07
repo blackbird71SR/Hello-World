@@ -7,3 +7,5 @@
   $stringVar = 'hello world';
   var_dump($stringVar);
 ?>
+// in php we can shorter our code to write echo with this code
+<?= 'Hello World' ?>
