@@ -1,0 +1,2 @@
+-- COMMENT: HELLO WORLD IN Eiffel programming language
+set_text ("Hello world")
