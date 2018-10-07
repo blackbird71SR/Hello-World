@@ -1,10 +1,10 @@
 # Hello-World
 
-Hello World in all possible programming languages
+Hello World in all possible programming languages.
 
 ## Aim
 
-This repository should eventually contain the famous "Hello World" program in all the programming languages possible...
+This repository should eventually contain the famous "Hello World" program, in all the programming languages possible...
 
 ## How to Contribute to this repository
 
@@ -33,6 +33,7 @@ An assembly language, often abbreviated asm, is any low-level programming langua
 
 - [x] **Autoit**
 AutoIt is a freeware automation language for Microsoft Windows. In its earliest release, the software was primarily intended to create automation scripts for Microsoft Windows programs but has since grown to include enhancements in both programming language design and overall functionality.
+
 - [x] **BASIC**
 BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
   
