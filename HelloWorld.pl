@@ -1,2 +1,5 @@
-#!/usr/bin/perl
-print "Hello World";
+use strict;
+use warnings;
+ 
+# Print a message.
+print "Hello, World!\n";
