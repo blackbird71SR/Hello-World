@@ -140,6 +140,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+- [x] **Mint**
+
+Mint is a refreshing, strongly typed, expression-oriented programming language for the front-end web.
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
