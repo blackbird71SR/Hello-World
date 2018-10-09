@@ -1,8 +1,8 @@
-#include <iostream>
-using namespace std;
+#include <iostream.h>
+#include<conio.h>
 
-int main()
+void main()
 {
-    cout <<"\nHello World"<< endl;
-    return 0;
+    cout <<"Hello World";
+    getch();
 }
