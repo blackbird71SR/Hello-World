@@ -198,7 +198,7 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **TypeScript**
 
-- [x] **VB.NET**
+- [x] **VB.NET***
 
 - [x] **Whitespace**
 
