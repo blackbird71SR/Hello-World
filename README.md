@@ -200,6 +200,8 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **VB.NET**
 
+VB.NET is a programming language designed to create applications that work with Microsoft’s .NET Framework. The .NET platform in turn addresses many of the limitations of “classic” COM, Microsoft’s Component Object Model, which provided one approach toward application and component interoperability. 
+
 - [x] **Whitespace**
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
