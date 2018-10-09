@@ -47,7 +47,7 @@ Brainfuck is an esoteric programming language created in 1993 by Urban Müller, 
 
 - [x] **C**
 
-C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
+C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software.C was originally developed by Dennis Ritchie between 1969 and 1973 at Bell Labs, and used to re-implement the Unix operating system.It has found lasting use in applications that had formerly been coded in assembly language, including operating systems, as well as various application software for computers ranging from supercomputers to embedded systems.
 
 - [x] **C#**
 
