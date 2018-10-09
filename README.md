@@ -194,7 +194,8 @@ Standard ML is a general-purpose, modular, functional programming language with 
 
 Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, macOS, watchOS, tvOS, and Linux. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products.
 
-- [x] **Tool Comman Language(TCL)**
+- [x] **Tool Command Language(TCL)**
+Tcl is a high-level, general-purpose, interpreted, dynamic programming language. It was designed with the goal of being very simple but powerful. Tcl casts everything into the mold of a command, even programming constructs like variable assignment and procedure definition.
 
 - [x] **TypeScript**
 
