@@ -65,6 +65,10 @@ COBOL is a compiled English-like computer programming language designed for busi
 
 COOL or Classroom Object Oriented Language is used for teaching compilers and is the only language which has more number of compilers than the number of programs written in it.  It generates code for a MIPS simulator, SPIM. Thus it is easily portable to other platforms. It has many of the features of modern programming languages, including objects, automatic memory management, strong static typing and simple reflection.
 
+- [x] **ActionScript**
+
+ActionScript is used primarily for the development of websites and software targeting the Adobe Flash Player platform, used on Web pages in the form of embedded SWF/AS files.
+
 - [x] **CoffeeScript**
 
 CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matc
