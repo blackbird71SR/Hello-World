@@ -181,10 +181,13 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 The Shakespeare Programming Language is a programming language created with the design goal to make the source code resemble Shakespeare plays.  There are no fancy data or control structures, just basic arithmetic and gotos. The language combines the expressiveness of BASIC with the user-friendliness of assembly language, but is much more verbose.
 
 - [x] **Shell**
+A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter. The various dialects of shell scripts are considered to be scripting languages. Typical operations performed by shell scripts include file manipulation, program execution, and printing text.
 
 - [x] **Solidity**
+Solidity is a contract-oriented, high-level language for implementing smart contracts. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
 
 - [x] **SQL**
+SQL (Structured Query Language) is a standard language for storing, manipulating and retrieving data in databases. It is particularly useful in handling structured data where there are relations between different entities/variables of the data.
 
 - [x] **Standard ML**
 
