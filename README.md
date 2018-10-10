@@ -204,6 +204,10 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
 
+- [x] **Hack**
+
+Hack is a programming language for the HipHop Virtual Machine, created by Facebook as a dialect of PHP. The language implementation is open-source, licensed under the BSD License. Hack allows programmers to use both dynamic typing and static typing : Wikipedia
+
 ## Contributors
 
 [![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/0)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/0)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/1)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/1)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/2)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/2)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/3)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/3)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/4)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/4)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/5)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/5)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/6)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/6)[![](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/images/7)](https://sourcerer.io/fame/Omkar-Ajnadkar/Omkar-Ajnadkar/Hello-World/links/7)
