@@ -170,6 +170,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **R**
 
+- [x] **Rockstar**
+
+Rockstar is designed for creating computer programs that are also song lyrics, and is heavily influenced by the lyrical conventions of 1980s hard rock and power ballads.
+
 - [x] **Ruby**
 
 - [x] **Rust**
