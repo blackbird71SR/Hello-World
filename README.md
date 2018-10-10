@@ -140,6 +140,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+- [x] **Mercury**
+
+Mercury is a purely declarative logic programming language. It is related to both Prolog and Haskell. It features a strong, static, polymorphic type system, and a strong mode and determinism system.
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
