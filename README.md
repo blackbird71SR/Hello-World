@@ -126,6 +126,9 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.
 
+- [x] **JSON**
+JSON stands for JavaScript Object Notation, often used to as a file to interchange data using attribute-value pairs
+
 - [x] **Julia**
 
 - [x] **Juliar**
