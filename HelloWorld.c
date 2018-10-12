@@ -1,7 +1,6 @@
 #include<stdio.h>
-
-int main(void)
+#include<iostream.h>   //only for library contents
+void main()
 {
   printf("Hello, world!");
-  return 0;
 }
