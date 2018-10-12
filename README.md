@@ -172,6 +172,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Ruby**
 
+Ruby is a pure Object-Oriented, dynamic, interpreted, reflective, general-purpose programming language developed by Yukihiro Matsumoto (also known as Matz in the Ruby community) in the mid 1990's in Japan.
+
 - [x] **Rust**
 
 - [x] **Scala**
