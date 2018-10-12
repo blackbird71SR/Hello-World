@@ -24,7 +24,8 @@ This repository should eventually contain the famous "Hello World" program in al
 - Add your language to this file in the below list.
 
 ## Languages Covered
-
+- [x] **ALGOL**
+A contemporary of the other early 1950’s programming languages FORTRAN, Lisp, and COBOL. It became the standard way of describing algorithms in academia for 30 years, meaning it influenced many other languages’ syntaxes, including C.
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
