@@ -118,6 +118,10 @@ Html Stands For Hypertext Markup Language (HTML) is the standard markup language
 
 INTERCAL was created in 1972 by two hackers from Princeton as a parody to satirizes various aspects of programming languages then. Anything that the compiler couldn't understand got skipped and the entire code read like someone pleading. The language was Turing-complete, and hence capable of implementing any algorithm. Though the programmer might be driven into advanced stages of insanity from the attempt.
 
+- [x] **ICON**
+
+Icon is a very high-level programming language featuring goal-directed execution and many facilities for managing strings and textual patterns. It is related to SNOBOL and SL5, string processing languages.
+
 - [x] **Java**
 
 Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
