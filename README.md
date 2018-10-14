@@ -182,6 +182,10 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Shell**
 
+- [x] **Smalltalk**
+
+Smalltalk is an object-oriented, dynamically typed, reflective programming language. It was designed and created in part for educational use, more so for constructionist learning, at the Learning Research Group (LRG) of Xerox PARC by Alan Kay, Dan Ingalls, Adele Goldberg, Ted Kaehler, Scott Wallace, and others during the 1970s.
+
 - [x] **Solidity**
 
 - [x] **SQL**
