@@ -1,7 +1,7 @@
-#include<stdio.h>
+#include<stdio.h>   // Header File
 
-int main(void)
+int main(void)      //Main Function
 {
-  printf("Hello, world!");
-  return 0;
+    printf("Hello, world!");    //Print Function
+    return 0;                   //return statement
 }
