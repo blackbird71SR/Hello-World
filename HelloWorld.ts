@@ -1,1 +1,3 @@
-console.log("Hello World!");
+const text: String = 'World';
+
+console.log(`Hello ${text}`);
