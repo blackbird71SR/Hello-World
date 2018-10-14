@@ -1,0 +1,2 @@
+Cout<<"hello world.";
+cout<<"i am rindish krishna...i m a cs first year student";
