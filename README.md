@@ -26,16 +26,16 @@ This repository should eventually contain the famous "Hello World" program in al
 ## Languages Covered
 
 - [x] **ABAP**
-ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
+      ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
 - [x] **Assembly**
-An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
+      An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
 
 - [x] **Autoit**
-AutoIt is a freeware automation language for Microsoft Windows. In its earliest release, the software was primarily intended to create automation scripts for Microsoft Windows programs but has since grown to include enhancements in both programming language design and overall functionality.
+      AutoIt is a freeware automation language for Microsoft Windows. In its earliest release, the software was primarily intended to create automation scripts for Microsoft Windows programs but has since grown to include enhancements in both programming language design and overall functionality.
 - [x] **BASIC**
-BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
-  
+      BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
+
 BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
 
 - [x] **Batch**
@@ -43,7 +43,7 @@ BASIC is a family of general-purpose, high-level programming languages whose des
 A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file.
 
 - [x] **Brainfuck**
-Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
+      Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
 
 - [x] **C**
 
@@ -63,11 +63,12 @@ COBOL is a compiled English-like computer programming language designed for busi
 
 - [x] **COOL**
 
-COOL or Classroom Object Oriented Language is used for teaching compilers and is the only language which has more number of compilers than the number of programs written in it.  It generates code for a MIPS simulator, SPIM. Thus it is easily portable to other platforms. It has many of the features of modern programming languages, including objects, automatic memory management, strong static typing and simple reflection.
+COOL or Classroom Object Oriented Language is used for teaching compilers and is the only language which has more number of compilers than the number of programs written in it. It generates code for a MIPS simulator, SPIM. Thus it is easily portable to other platforms. It has many of the features of modern programming languages, including objects, automatic memory management, strong static typing and simple reflection.
 
 - [x] **CoffeeScript**
 
 CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matc
+
 - [x] **ClojureScript**
 
 Clojure is a dialect of the Lisp programming language. Clojure is a general-purpose programming language with an emphasis on functional programming. It runs on the Java virtual machine and the Common Language Runtime.
@@ -86,11 +87,15 @@ Dart is a general-purpose programming language originally developed by Google an
 
 - [x] **Delphi**
 
-Delphi is both an object oriented programming language (OOP) and an Integrated Development Environment (IDE). Published by the Embarcadero company (formerly CodeGear and more formerly Borland), Delphi is an alternative to language such as Visual Basic offering development with both rapidity and good quality. 
+Delphi is both an object oriented programming language (OOP) and an Integrated Development Environment (IDE). Published by the Embarcadero company (formerly CodeGear and more formerly Borland), Delphi is an alternative to language such as Visual Basic offering development with both rapidity and good quality.
 
 - [x] **Elixir**
 
 Elixir is a functional, concurrent, general-purpose programming language that runs on the Erlang virtual machine. Elixir builds on top of Erlang and shares the same abstractions for building distributed, fault-tolerant applications. Elixir also provides a productive tooling and an extensible design.
+
+- [x] **Elm**
+
+Elm is a domain-specific programming language for declaratively creating web browser-based graphical user interfaces. Elm is purely functional, and is developed with emphasis on usability, performance, and robustness. It advertises "no runtime exceptions in practice", made possible by the Elm compiler's static type checking.
 
 - [x] **Emojic**
 
@@ -132,7 +137,7 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 
 - [x] **Kotlin**
 
-Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework. 
+Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework.
 
 - [x] **Lisp**
 
@@ -178,7 +183,7 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Shakespeare**
 
-The Shakespeare Programming Language is a programming language created with the design goal to make the source code resemble Shakespeare plays.  There are no fancy data or control structures, just basic arithmetic and gotos. The language combines the expressiveness of BASIC with the user-friendliness of assembly language, but is much more verbose.
+The Shakespeare Programming Language is a programming language created with the design goal to make the source code resemble Shakespeare plays. There are no fancy data or control structures, just basic arithmetic and gotos. The language combines the expressiveness of BASIC with the user-friendliness of assembly language, but is much more verbose.
 
 - [x] **Shell**
 
