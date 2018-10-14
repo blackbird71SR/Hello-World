@@ -63,7 +63,7 @@ C++/CLI is language created for .NET Framework to make interoperability with C++
 
 - [x] **CIL**
 
-CIL is owest-level human-readable programming language used in .NET Framework, .NET Core and Mono.
+CIL is the lowest-level human-readable programming language used in .NET Framework, .NET Core and Mono.
 
 - [x] **Cobol**
 
