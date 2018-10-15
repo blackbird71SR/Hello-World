@@ -1,2 +1,1 @@
-SELECT 'Hello World';
-PRINT 'Hello World';
+SELECT * from table where Name = "Hello World" ;
