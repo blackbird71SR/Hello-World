@@ -1,1 +1,2 @@
-message('Hello World!')
+program :- write('Hello, world!').
+:- program.
