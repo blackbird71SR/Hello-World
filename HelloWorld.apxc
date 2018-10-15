@@ -1,0 +1,6 @@
+Public class HelloWorld(){
+public static void helloWorld(){
+
+system.debug('Hello from Salesforce!');
+}
+}
