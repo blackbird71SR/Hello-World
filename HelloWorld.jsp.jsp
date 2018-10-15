@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello World - JSP tutorial</title>
+<title>Hello World</title>
 </head>
 <body>
     <%= "Hello World!" %>
