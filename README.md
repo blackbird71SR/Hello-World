@@ -45,6 +45,9 @@ A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It con
 - [x] **Brainfuck**
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
 
+- [x] **Ballerina**
+Ballerina is a simple programming language whose syntax and platform address the hard problems of integration. Ballerina is a general purpose, concurrent, transactional, statically and strongly typed programming language with both textual and graphical syntaxes. Its specialization is integration.
+
 - [x] **C**
 
 C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
