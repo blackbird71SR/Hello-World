@@ -1,0 +1,21 @@
+pi pi pi pi pi pi pi pi pi pi              	initialize counter (cell #0) to 10
+pika                       					use loop to set the next four cells to 70/100/30/10
+    pipi pi pi pi pi pi pi pi             	add  7 to cell #1
+    pipi pi pi pi pi pi pi pi pi pi pi    	add 10 to cell #2 
+    pipi pi pi pi                    		add  3 to cell #3
+    pipi pi                      			add  1 to cell #4
+    pichu pichu pichu pichu ka             	decrement counter (cell #0)
+chu                   
+pipi pi pi pikachu                  									print 'H'
+pipi pi pikachu                   										print 'e'
+pi pi pi pi pi pi pi pikachu              								print 'l'
+pikachu                       											print 'l'
+pi pi pi pikachu                   										print 'o'
+pipi pi pi pikachu                  									print ' '
+pichu pichu pi pi pi pi pi pi pi pi pi pi pi pi pi pi pi pikachu  		print 'W'
+pipi pikachu                     										print 'o'
+pi pi pi pikachu                   										print 'r'
+ka ka ka ka ka ka pikachu               								print 'l'
+ka ka ka ka ka ka ka ka pikachu             							print 'd'
+pipi pi pikachu                   										print '!'
+pipi pikachu                     										print '\n'
