@@ -130,6 +130,8 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 
 - [x] **Juliar**
 
+Juliar DReaM is a programming language for rapid prototyping which can be used to code and run on any platform by running on top of a Java VM. It has a built-in GUI and is multithreaded.
+
 - [x] **Kotlin**
 
 Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework. 
