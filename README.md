@@ -168,6 +168,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Python**
 
+Python is an interpreted high-level programming language for general-purpose programming. It was created by Guido van Rossum. Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales.In July 2018, Van Rossum stepped down as the leader in the language community after 30 years.
+
 - [x] **R**
 
 - [x] **Ruby**
