@@ -168,13 +168,13 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Python**
 
-- [x] **R**
-
-R is an open source language and environment for statistical computing and graphics. It provides functionality for data and storage handling, matrices calculations and data analysis and visualisation. 
+- [x] **R** 
 
 - [x] **Ruby**
 
 - [x] **Rust**
+
+Rust is an open source, systems programming language which focuses on safety, in particular, safe concurrency, while supporting functional annd imperative-procedural paradigms. Its syntax is similar to the C++ syntax, however, it has better memory management safety in place. The intended usage of Rust is for highly concurrent and highly safe systems.
 
 - [x] **Scala**
 
