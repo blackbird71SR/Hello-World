@@ -1,0 +1,3 @@
+HAI 1.0
+VISIBLE "Hello World"
+KTHXBAI
