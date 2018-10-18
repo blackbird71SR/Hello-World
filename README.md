@@ -164,9 +164,13 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **PowerShell**
 
+PowerShell is a task-based command-line shell and scripting language built on .NET. PowerShell helps system administrators and power-users to rapidly automate tasks that manage operating systems (Linux, macOS, and Windows) and processes.
+
 - [x] **Prolog**
 
 - [x] **Python**
+
+Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace.
 
 - [x] **R**
 
@@ -185,6 +189,8 @@ The Shakespeare Programming Language is a programming language created with the 
 - [x] **Solidity**
 
 - [x] **SQL**
+
+SQL (Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS).
 
 - [x] **Standard ML**
 
