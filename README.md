@@ -180,6 +180,11 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 The Shakespeare Programming Language is a programming language created with the design goal to make the source code resemble Shakespeare plays.  There are no fancy data or control structures, just basic arithmetic and gotos. The language combines the expressiveness of BASIC with the user-friendliness of assembly language, but is much more verbose.
 
+
+- [x] **Scheme**
+
+One of the two main dialects of Lisp, the other being Common List. It tried to be minimalistic in design and allow powerful extension of the language.
+
 - [x] **Shell**
 
 - [x] **Solidity**
