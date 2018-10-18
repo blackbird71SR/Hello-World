@@ -1,0 +1,8 @@
+-- Before running this program, run the following command
+-- on the SQL prompt : 
+--      set serveroutput on;
+
+BEGIN
+  dbms_output.put_line('Hello, World!');
+END;
+/
