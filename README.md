@@ -88,6 +88,10 @@ Dart is a general-purpose programming language originally developed by Google an
 
 Delphi is both an object oriented programming language (OOP) and an Integrated Development Environment (IDE). Published by the Embarcadero company (formerly CodeGear and more formerly Borland), Delphi is an alternative to language such as Visual Basic offering development with both rapidity and good quality. 
 
+- [x] **DOG**
+
+DOG is an esoteric programming language created by Jeremy Ruten. The commands in this program are supposed to look like commands you'd give to a dog.
+
 - [x] **Elixir**
 
 Elixir is a functional, concurrent, general-purpose programming language that runs on the Erlang virtual machine. Elixir builds on top of Erlang and shares the same abstractions for building distributed, fault-tolerant applications. Elixir also provides a productive tooling and an extensible design.
