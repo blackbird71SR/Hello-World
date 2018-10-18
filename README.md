@@ -182,6 +182,10 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Shell**
 
+- [x] **Sling**
+
+The Sling programming language is a general-purpose, object oriented programming language that is meant to be used for all kinds of software development targeting multiple platforms and different execution environments.
+
 - [x] **Solidity**
 
 - [x] **SQL**

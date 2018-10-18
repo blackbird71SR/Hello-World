@@ -1,0 +1,7 @@
+class:
+
+main
+{
+	PRINT "Hello World"
+	return 0
+}
