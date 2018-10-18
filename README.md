@@ -202,6 +202,10 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **Whitespace**
 
+- [X] **SMALLTALK**
+
+Smalltalk is an object-oriented, dynamically typed, reflective programming language. Smalltalk was created as the language to underpin the "new world" of computing exemplified by "human–computer symbiosis."[2] It was designed and created in part for educational use, more so for constructionist learning, at the Learning Research Group (LRG) of Xerox PARC by Alan Kay, Dan Ingalls, Adele Goldberg, Ted Kaehler, Scott Wallace, and others during the 1970s.
+
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
 
 ## Contributors
