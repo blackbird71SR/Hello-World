@@ -94,6 +94,11 @@ Elixir is a functional, concurrent, general-purpose programming language that ru
 
 - [x] **Emojic**
 
+- [x] **Emmental**
+Emmental is an esoteric programming language designed by Chris Pressey in 2007.
+Emmental is a self-modifying language. It is defined by a meta-circular interpreter (an Emmental interpreter described in Emmental.) The meta-circular interpreter provides an operation which modifies operations of the meta-circular interpreter.
+Emmental is a stack-based language, but it also has a queue.
+
 - [x] **Erlang**
 
 Erlang is a general purpose or you might say a functional programming language and runtime environment. It was built in such a way that it had inherent support for concurrency, distribution and fault tolerance. Erlang was originally developed to be used in several large telecommunication systems. But it has now slowly made its foray into diverse sectors like ecommerce, computer telephony and banking sectors as well.
