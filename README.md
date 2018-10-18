@@ -152,6 +152,8 @@ OCaml or Objective Caml, is a general purpose programming language with an empha
 
 - [x] **Pascal**
 
+Pascal is an imperative and procedural programming language, which Niklaus Wirth designed in 1968–69 and published in 1970, as a small, efficient language intended to encourage good programming practices using structured programming and data structuring.
+
 - [x] **Perl**
 
 - [x] **Perl 6**
