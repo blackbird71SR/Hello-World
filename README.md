@@ -49,6 +49,10 @@ Brainfuck is an esoteric programming language created in 1993 by Urban Müller, 
 
 C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
 
+- [x] **Ceylon**
+
+Ceylon is an object-oriented, strongly statically typed programming language with an emphasis on immutability, created by Red Hat. 
+
 - [x] **C#**
 
 C# is a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a standard by Ecma and ISO.
