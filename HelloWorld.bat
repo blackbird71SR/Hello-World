@@ -1,3 +1,3 @@
-@echo off
+@echo on
 
 echo Hello World
