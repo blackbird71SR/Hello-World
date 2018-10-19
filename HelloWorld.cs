@@ -1,12 +1,16 @@
 using System;
 
-namespace helloWorld
+namespace Hello
 {
-    class HelloWorld
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.ForegroundColor = ConsoleColor.Blue;
+            string s = "Hello world!";
+            
+            Console.WriteLine(s);
+            Console.ReadLine();
         }
     }
 }
