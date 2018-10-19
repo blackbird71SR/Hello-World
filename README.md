@@ -170,6 +170,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **R**
 
+- [x] **Rexx** - Rexx (Restructured Extended Executor) is an interpreted programming language developed at IBM by Mike Cowlishaw.  It is a structured, high-level programming language designed for ease of learning and reading.
+
 - [x] **Ruby**
 
 - [x] **Rust**
