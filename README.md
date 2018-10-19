@@ -136,6 +136,8 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lisp**
 
+- [x] **Logo** - Intended for education use, Logo has a close association with teaching graphical concepts. Popular in the 80s, a student would direct an on-screen “turtle” to draw lines. Some lucky students would also have a real robotic turtle to draw the same lines on actual paper.
+
 - [x] **Lua**
 
 - [x] **Matlab**
