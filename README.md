@@ -204,7 +204,7 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
 
--[x] **Logo**
+- [x] **Logo**
 
 Logo is an educational programming language, designed in 1967 by Wally Feurzeig, Seymour Papert and Cynthia Solomon.
 
