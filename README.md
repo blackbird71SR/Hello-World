@@ -170,6 +170,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **R**
 
+- [x] **Racket**
+
+Racket is a general-purpose, multi-paradigm programming language in the Lisp-Scheme family. One of its design goals is to serve as a platform for language creation, design, and implementation.The language is used in a variety of contexts such as scripting, general-purpose programming, computer science education, and research
+
 - [x] **Ruby**
 
 - [x] **Rust**
