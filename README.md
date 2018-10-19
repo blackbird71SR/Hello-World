@@ -138,6 +138,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lua**
 
+- [x] **LOL CODE**
+
+LOL CODE is an open source programming language on github, developed by Justin Meza. 
+
 - [x] **Matlab**
 
 - [x] **Nim**
