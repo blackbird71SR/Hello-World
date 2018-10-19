@@ -102,6 +102,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **Fortran**
 
+Fortran initially started as a scientific language but later became high level language. It stands for Formula Translator and basically used for numerical analysis and scientific computations. It also supports concurrent, structure and object oriented programming. It was introduces back in 1950s and was originally developed by IBM.
+
 - [x] **Go**
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
