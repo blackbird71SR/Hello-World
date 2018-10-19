@@ -194,6 +194,10 @@ Standard ML is a general-purpose, modular, functional programming language with 
 
 Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, macOS, watchOS, tvOS, and Linux. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products.
 
+- [x] **Self**
+
+Self is an object-oriented programming language based on the concept of prototypes. Self began as a dialect of Smalltalk, being dynamically typed and using just-in-time compilation (JIT) as well as the prototype-based approach to objects: it was first used as an experimental test system for language design in the 1980s and 1990s
+
 - [x] **Tool Comman Language(TCL)**
 
 - [x] **TypeScript**
