@@ -170,6 +170,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **R**
 
+R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. Polls, data mining surveys and studies of scholarly literature databases, show substantial increases in popularity in recent years. As of August 2018, R ranks 18th in the TIOBE index, a measure of popularity of programming languages.
+
 - [x] **Ruby**
 
 - [x] **Rust**
