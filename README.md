@@ -140,6 +140,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+- [x] **Malbolge**
+
+Malbolge is a public domain esoteric programming language invented by Ben Olmstead in 1998, named after the eighth circle of hell in Dante's Inferno, the Malebolge. It was specifically designed to be almost impossible to use, via a counter-intuitive 'crazy operation', base-three arithmetic, and self-altering code. It builds on the difficulty of earlier, challenging esoteric languages (such as Brainfuck and Befunge), but takes this aspect to the extreme, playing on the entangled histories of computer science and encryption. Despite this design, it is possible (though very difficult) to write useful Malbolge programs.
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
