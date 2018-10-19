@@ -138,6 +138,8 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lua**
 
+Lua is a lightweight, multi-paradigm programming language designed primarily for embedded use in applications.
+
 - [x] **Matlab**
 
 - [x] **Nim**
