@@ -182,6 +182,10 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Shell**
 
+- [x] **SIL**
+
+Simple Issue Language™ (SIL™) is intended to simplify work for users who do not want to deep dive to implementation details of Jira or users who do not know Java. In addition, the purpose of the language is to make things as simple as possible, so a person without strong programming abilities can use it, but retaining as much flexibility as possible and exposing what we believe to be the basics of workflow customization, email handling, issue listeners, scheduled tasks, and so on.
+
 - [x] **Solidity**
 
 - [x] **SQL**
