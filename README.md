@@ -28,6 +28,10 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
+- [x] **ActionScript 3**
+
+ActionScript is an object-oriented programming language originally developed by Macromedia Inc. (later acquired by Adobe Systems). ActionScript 3.0 has a similar syntax to ActionScript 2.0 but a different set of APIs for creating objects. 
+
 - [x] **Assembly**
 An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
 
