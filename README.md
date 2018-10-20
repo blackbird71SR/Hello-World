@@ -168,6 +168,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Python**
 
+General Purpose dynamically typed scripting language that is known for ease use.
+Its ease of use and ability to call C binaries has made it popular in the areas of machine learning and automation.
+It was created by Guido Van Rossum in 1990 is licensed under the Python Software Foundation License
+
 - [x] **R**
 
 - [x] **Ruby**
