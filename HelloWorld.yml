@@ -1,0 +1,10 @@
+---
+- name: HelloWorld 
+  hosts: "my-hosts"
+  vars: 
+	my_file: PATH_TO_FILE
+  tasks:
+  - name: Insert Hello World into a file..
+    copy: 
+      content: "Hello World\n" 
+      dest: /tmp/{{my_file}}.txt
