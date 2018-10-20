@@ -6,4 +6,8 @@
   // if you want the variable data types as well use var_dump
   $stringVar = 'hello world';
   var_dump($stringVar);
+
+  // use array for print hello world. Depend on your needs. 
+$string = array('Hello','World!');
+echo implode(" ",$string);
 ?>
