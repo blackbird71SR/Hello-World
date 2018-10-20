@@ -136,6 +136,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lisp**
 
+- [x] **Lol Code**
+
+LOLCODE, a programming language inspired by "lolcats", contains source code that uses slang syntax and keywords such as HAI (for "Hi" or "Hello") which denotes the beginning of the program, and KTHXBYE (for "OK thanks, bye"), which signals the end of the program.
+
 - [x] **Lua**
 
 - [x] **Matlab**
