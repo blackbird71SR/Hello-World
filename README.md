@@ -170,6 +170,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **R**
 
+R is a programming language widely use for statistical computing and graphics supported by the R Foundation. This is mostly use for data mining and data analysis. As of August 2018, R ranks 18th in the TIOBE index, a measure of popularity of programming languages.
+
 - [x] **Ruby**
 
 - [x] **Rust**
