@@ -110,6 +110,8 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 
 - [x] **Haskell**
 
+Haskell is a lazy, purely functional programming language named after logician Haskell Curry. Lazy here means that Haskell will not execute the commands right away but will wait until you need the results. Haskell has a strong, static type system that has type inference. This means that you don't have to explicitly label every piece of code with a type because the type system can intelligently figure out a lot about it. It's main implementation is the [Glasgow Haskell Compiler](https://en.wikipedia.org/wiki/Glasgow_Haskell_Compiler). It's widely used in academia and industry.
+
 - [x] **HTML**
 
 Html Stands For Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
