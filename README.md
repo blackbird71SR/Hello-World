@@ -140,6 +140,9 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+- [x] **Mel**
+The Maya Embedded Language (MEL) is a scripting language used to simplify tasks in Autodesk's 3D Graphics Software Maya. Most tasks that can be achieved through Maya's GUI can be achieved with MEL, as well as certain tasks that are not available from the GUI. MEL offers a method of speeding up complicated or repetitive tasks, as well as allowing users to redistribute a specific set of commands to others that may find it useful.
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
