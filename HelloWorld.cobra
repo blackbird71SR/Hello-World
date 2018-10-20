@@ -1,0 +1,5 @@
+#!/usr/bin/env cobra
+use System
+class Program
+    def main is shared
+        Console.writeLine('Hello, Cobra World!')
