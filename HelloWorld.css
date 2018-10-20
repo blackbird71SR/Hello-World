@@ -1,0 +1,9 @@
+html::before {
+    content: 'Hello, World!';
+    color: #005b96;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    text-shadow: 2px 2px #b3cde0; 
+  }
