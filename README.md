@@ -102,6 +102,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **Fortran**
 
+Fortran (Formula Translator) is a general-purpose, imperative programming language designed by IBM in the 1950s. Fortran was initially designed for batch processing with its goal being execution efficiency. The language structures were simple with a rather inelegant design.
+
 - [x] **Go**
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
@@ -168,6 +170,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Python**
 
+Python is an object oriented, high-level programming language for general-purpose programming which is dynamically typed, interpreted, and known for its easy readability with great design principles. It provides extensive support libraries used in fields ranging from web scraping to GUI development.
+
 - [x] **R**
 
 - [x] **Ruby**
@@ -185,6 +189,8 @@ The Shakespeare Programming Language is a programming language created with the 
 - [x] **Solidity**
 
 - [x] **SQL**
+
+SQL(Structured Query Language) is a omain-specific language that is designed for manipulating data in relational database manangement system. It is used to create, delete, modify and read the data. 
 
 - [x] **Standard ML**
 
