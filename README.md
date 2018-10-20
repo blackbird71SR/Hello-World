@@ -109,6 +109,7 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 - [x] **Groovy**
 
 - [x] **Haskell**
+Haskell is a standardized, general-purpose, purely functional programming language with non-strict semantics and strong static typing. It is named after logician Haskell Curry. Haskell features a type system with type inference and lazy evaluation. Type classes first appeared in the Haskell programming language. Its main implementation is the Glasgow Haskell Compiler. Haskell is based on the semantics, but not the syntax, of the language Miranda, which served to focus the efforts of the initial Haskell working group. Haskell is used widely in academia and industry.
 
 - [x] **HTML**
 
