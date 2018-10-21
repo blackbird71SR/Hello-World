@@ -200,6 +200,8 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **VB.NET**
 
+Visual Basic .NET (VB.NET) is a multi-paradigm, object-oriented programming language, implemented on the .NET Framework. Microsoft launched VB.NET in 2002 as the successor to its original Visual Basic language. VB.Net was designed to take advantage of the .NET framework-based classes and run-time environment. It was re-engineered by Microsoft as part of its .NET product group.VB.NET supports abstraction, inheritance, and polymorphism.
+
 - [x] **Whitespace**
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
