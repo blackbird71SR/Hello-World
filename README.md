@@ -202,6 +202,10 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **Whitespace**
 
+- [x] **ArnoldC**
+
+Programming language based on the one-liners of Arnold Schwarzenegger.
+
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
 
 ## Contributors
