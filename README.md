@@ -204,6 +204,10 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **ArnoldC**
 
+- [x] **Brainfuck**
+
+Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism.
+
 Programming language based on the one-liners of Arnold Schwarzenegger.
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
