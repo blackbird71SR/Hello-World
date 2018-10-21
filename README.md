@@ -182,6 +182,10 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Shell**
 
+- [x] **Small Basic**
+
+Microsoft Small Basic is a programming language and associated IDE. It is Microsoft's simplified variant of the BASIC programming language, intended as an easy programming language for beginners. The associated IDE provides a simplified programming environment with functionality such as syntax highlighting, intelligent code completion, and in-editor documentation access.
+
 - [x] **Solidity**
 
 - [x] **SQL**
