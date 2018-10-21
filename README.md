@@ -61,6 +61,8 @@ C++ is a general-purpose object-oriented programming (OOP) language, developed b
 
 COBOL is a compiled English-like computer programming language designed for business use. It is imperative, procedural and, since 2002, object-oriented. COBOL is primarily used in business, finance, and administrative systems for companies and governments.
 
+- [x] **Coconut**
+
 - [x] **COOL**
 
 COOL or Classroom Object Oriented Language is used for teaching compilers and is the only language which has more number of compilers than the number of programs written in it.  It generates code for a MIPS simulator, SPIM. Thus it is easily portable to other platforms. It has many of the features of modern programming languages, including objects, automatic memory management, strong static typing and simple reflection.
