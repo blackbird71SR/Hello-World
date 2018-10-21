@@ -28,7 +28,7 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
-- [x] ArnoldC
+- [x] **ArnoldC**
 
 ArnoldC is an imperative programming language where the basic keywords are replaced with quotes from different Schwarzenegger movies. Parsing is done with Parboiled and ASM is used to generate the Java bytecode.
 
