@@ -198,6 +198,8 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **TypeScript**
 
+TypeScript is a superset of JavaScript which primarily provides optional static typing, classes and interfaces. It differentiates itself from competitors like CoffeeScript and Dart in that plain JavaScript code can be intermixed with TypeScript. Therefore JavaScript is TypeScript. For a large JavaScript project, adopting TypeScript might result in more robust software, while still being deployable where a regular JavaScript application would run. Developed by Microsoft.
+
 - [x] **VB.NET**
 
 - [x] **Whitespace**
