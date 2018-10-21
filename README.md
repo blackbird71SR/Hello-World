@@ -99,6 +99,7 @@ Elixir is a functional, concurrent, general-purpose programming language that ru
 Erlang is a general purpose or you might say a functional programming language and runtime environment. It was built in such a way that it had inherent support for concurrency, distribution and fault tolerance. Erlang was originally developed to be used in several large telecommunication systems. But it has now slowly made its foray into diverse sectors like ecommerce, computer telephony and banking sectors as well.
 
 - [x] **F#**
+F# (pronounced F sharp) is a strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods.
 
 - [x] **Fortran**
 
