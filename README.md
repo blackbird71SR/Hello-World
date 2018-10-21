@@ -101,6 +101,7 @@ Erlang is a general purpose or you might say a functional programming language a
 - [x] **F#**
 
 - [x] **Fortran**
+Fortran (formerly FORTRAN, derived from Formula Translation) is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing. 
 
 - [x] **Go**
 
@@ -108,7 +109,9 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 
 - [x] **Groovy**
 
+
 - [x] **Haskell**
+Haskell  is a standardized, general-purpose, purely functional programming language with non-strict semantics and strong static typing. It is named after logician Haskell Curry. It features a type system with type inference and lazy evaluation. Haskell is based on the semantics, but not the syntax, of the language Miranda, which served to focus the efforts of the initial Haskell working group. Haskell is used widely in academia and industry.
 
 - [x] **HTML**
 
@@ -127,6 +130,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web.
 
 - [x] **Julia**
+Julia is a high-level general-purpose  dynamic programming language that was originally designed to address the needs of high-performance numerical analysis and computational science, without the typical need of separate compilation to be fast, also usable for client and server web use,low-level systems programming or as a specification language.
 
 - [x] **Juliar**
 
@@ -135,46 +139,62 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework. 
 
 - [x] **Lisp**
+Lisp (historically, LISP derived from "LISt Processor") is a family of computer programming languages originally specified in 1958,  is the second-oldest high-level programming language in widespread use today. Only Fortran is older, by one year. Lisp was originally created as a practical mathematical notation for computer programs, influenced by the notation of Alonzo Church's lambda calculus. It quickly became the favored programming language for artificial intelligence (AI) research. Lisp pioneered many ideas in computer science, including tree data structures, automatic storage management, dynamic typing, conditionals, higher-order functions, recursion, the self-hosting compiler, and the read–eval–print loop. 
+ 
 
 - [x] **Lua**
+Lua (from Portuguese: lua  meaning moon) is a lightweight, multi-paradigm programming language designed primarily for embedded use in applications.Lua is cross-platform, since the interpreter is written in ANSI C, and has a relatively simple C API.
 
 - [x] **Matlab**
+MATLAB (matrix laboratory) is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages, including C, C++, C#, Java, Fortran and Python. 
 
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
 
 - [x] **Objective-C**
+Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language. It was the main programming language used by Apple for the macOS and iOS operating systems, and their respective application programming interfaces (APIs) Cocoa and Cocoa Touch prior to the introduction of Swift. Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language. It was the main programming language used by Apple for the macOS and iOS operating systems, and their respective application programming interfaces (APIs) Cocoa and Cocoa Touch prior to the introduction of Swift. 
 
 - [x] **OCaml**
 
 OCaml or Objective Caml, is a general purpose programming language with an emphasis on expressiveness and safety.
 
 - [x] **Pascal**
+Pascal is an imperative and procedural programming language, which Niklaus Wirth designed in 1968–69 and published in 1970, as a small, efficient language intended to encourage good programming practices using structured programming and data structuring. It is named in honor of the French mathematician, philosopher and physicist Blaise Pascal. 
 
 - [x] **Perl**
+Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages, Perl 5 and Perl 6.
 
 - [x] **Perl 6**
+Perl 6 is a member of the Perl family of programming languages.While historically several interpreter and compiler implementations were being written, today only the Rakudo Perl 6 implementation is in active development. It is introducing elements of many modern and historical languages. Compatibility with Perl 5 is not a goal, though a compatibility mode is part of the specification.
 
 - [x] **PHP**
 
 PHP: Hypertext Preprocessor is a server-side scripting language designed for Web development, but also used as a general-purpose programming language. It was originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Group.
 
 - [x] **PostScript**
+PostScript (PS) is a page description language in the electronic publishing and desktop publishing business. It is a dynamically typed, concatenative programming language and was created at Adobe Systems by John Warnock, Charles Geschke, Doug Brotz, Ed Taft and Bill Paxton from 1982 to 1984. 
 
-- [x] **PowerShell**
+- [x] **PowerShell
+PowerShell is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open-source and cross-platform on 18 August 2016 with the introduction of PowerShell Core.
 
 - [x] **Prolog**
+Prolog is a logic programming language associated with artificial intelligence and computational linguistics. Prolog has its roots in first-order logic, a formal logic, and unlike many other programming languages, Prolog is intended primarily as a declarative programming language: the program logic is expressed in terms of relations, represented as facts and rules. 
 
 - [x] **Python**
+Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales.Python features a dynamic type system and automatic memory management. It supports multiple programming paradigms, including object-oriented, imperative, functional and procedural, and has a large and comprehensive standard library.
 
 - [x] **R**
+R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.The R language is widely used among statisticians and data miners for developing statistical software and data analysis.It is an interpreted language; users typically access it through a command-line interpreter.
 
 - [x] **Ruby**
+Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. 
 
 - [x] **Rust**
+Rust is a systems programming language with a focus on safety, especially safe concurrency,supporting functional and imperative-procedural paradigms. Rust is syntactically similar to C++, but its designers intend it to provide better memory safety while still maintaining performance. 
 
 - [x] **Scala**
+Scala is a general-purpose programming language providing support for functional programming and a strong static type system. Designed to be concise, many of Scala's design decisions aimed to address criticisms of Java.
 
 - [x] **Shakespeare**
 
