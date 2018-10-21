@@ -136,6 +136,9 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lisp**
 
+- [x] **Linden Scripting Language (LSL)**
+LSL (Linden Scripting Language) is the scripting language that gives behavior to Second Life primitives, objects, and avatars.
+
 - [x] **Lua**
 
 - [x] **Matlab**
