@@ -154,6 +154,8 @@ OCaml or Objective Caml, is a general purpose programming language with an empha
 
 - [x] **Perl**
 
+Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages, Perl 5 and Perl 6. Though Perl is not officially an acronym, there are various backronyms in use, including "Practical Extraction and Reporting Language". 
+
 - [x] **Perl 6**
 
 - [x] **PHP**
