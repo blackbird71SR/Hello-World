@@ -136,6 +136,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lisp**
 
+- [x] **LOLCODE**
+
+LOLCODE is an esoteric programming language created by Adam Lindsay. The syntax and language choices are inspired from internet 'lolspeak' such as 'hai', 'kthx', and 'haz'.
+
 - [x] **Lua**
 
 - [x] **Matlab**
