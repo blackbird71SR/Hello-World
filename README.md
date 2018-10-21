@@ -182,6 +182,10 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Shell**
 
+- [x] [**Skip**](http://www.skiplang.com/)
+
+Skip is a general-purpose programming language that tracks side effects to provide caching with reactive invalidation, ergonomic and safe parallelism, and efficient garbage collection. Skip is statically typed and ahead-of-time compiled using LLVM to produce highly optimized executables.
+
 - [x] **Solidity**
 
 - [x] **SQL**
