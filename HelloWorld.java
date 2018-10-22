@@ -2,6 +2,7 @@ class HelloWorld
 {
   public static void main(String[] args)
   {
-    System.out.println("Hello World!!");
+	  //Print hello word using System.out.print command
+    System.out.print("Hello World!!");
   }
 }
