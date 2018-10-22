@@ -136,6 +136,8 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lisp**
 
+- [x] **LOLCODE** is an esoteric programming language inspired by lolspeak, the language expressed in examples of the lolcat Internet meme. The language was created in 2007 by Adam Lindsay, researcher at the Computing Department of Lancaster University.
+
 - [x] **Lua**
 
 - [x] **Matlab**
