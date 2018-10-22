@@ -135,6 +135,7 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework. 
 
 - [x] **Lisp**
+Lisp is a family of computer programming languages with a long history and a distinctive, fully parenthesized prefix notation. Originally specified in 1958, Lisp is the second-oldest high-level programming language in widespread use today.
 
 - [x] **Lua**
 
