@@ -162,13 +162,22 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **PostScript**
 
+Postscript: The character "%" is used to introduce comments in PostScript programs. As a general convention, every PostScript program should start with the characters "%!PS" as an interpreter directive so that all devices will properly interpret it as PostScript.
+
 - [x] **PowerShell**
+Poershell: Windows PowerShell is a command-line interface for Windows computers. A command-line interface (CLI) is a program for telling your computer to do tasks using typed commands, rather than by clicking pictures on the desktop as in a graphical user interface (GUI). (Technically, PowerShell is more than just the CLI, and you can get a quick overview of its features on Wikipedia.) Using the command line has many advantages. It makes it possible to automate tasks and to do many things with one command. Most importantly, a number of tools of value to humanists can only be run from the command line, including many you can learn about on The Programming Historian, like Mallet, Pandoc, or Wget. The command line is also the best place to work with programs you have custom built for your own research using programming languages like Python.
 
 - [x] **Prolog**
 
+Prolog : Prolog is a logic programming language. It has important role in artificial intelligence. Unlike many other programming languages, Prolog is intended primarily as a declarative programming language. In prolog, logic is expressed as relations (called as Facts and Rules). Core heart of prolog lies at the logic being applied. Formulation or Computation is carried out by running a query over these relations.
+
 - [x] **Python**
 
+Python : Python is a widely used general-purpose, high level programming language. It was initially designed by Guido van Rossum in 1991 and developed by Python Software Foundation. It was mainly developed for emphasis on code readability, and its syntax allows programmers to express concepts in fewer lines of code.
+
 - [x] **R**
+
+R : R is a programming language developed by Ross Ihaka and Robert Gentleman in 1993. R possesses an extensive catalog of statistical and graphical methods. It includes machine learning algorithm, linear regression, time series, statistical inference to name a few. Most of the R libraries are written in R, but for heavy computational task, C, C++ and Fortran codes are preferred. 
 
 - [x] **Ruby**
 
