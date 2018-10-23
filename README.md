@@ -45,6 +45,11 @@ A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It con
 - [x] **Brainfuck**
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
 
+- [x] **BIRL**
+The BIRL (Bambam's "It's show time" Recursive Language) is the thirteenth programming language ever invented.
+It should be used only by those who actually build fiber and it is not water with code. It is an extremely simple language but with the power to overthrow all the trees of Ibirapuera Park.
+Programming at BIRL, it's summer all year long! - https://birl-language.github.io/;
+
 - [x] **C**
 
 C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
