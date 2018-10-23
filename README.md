@@ -100,7 +100,11 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **F#**
 
+F# (pronounced F sharp) is a strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods.
+
 - [x] **Fortran**
+
+FORTRAN is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing.
 
 - [x] **Go**
 
@@ -108,7 +112,11 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 
 - [x] **Groovy**
 
+It can be used as both a programming language and a scripting language for the Java Platform, is compiled to Java virtual machine (JVM) bytecode, and interoperates seamlessly with other Java code and libraries. 
+
 - [x] **Haskell**
+
+Haskell is a standardized, general-purpose, purely functional programming language with non-strict semantics and strong static typing. It is named after logician Haskell Curry. The latest standard of Haskell is Haskell 2010
 
 - [x] **HTML**
 
