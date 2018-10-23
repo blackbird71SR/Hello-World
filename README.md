@@ -170,6 +170,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **R**
 
+- [x] **Red**
+
+Red is a next-gen programming language, strongly inspired by REBOL.Red’s ambitious goal is to build the world’s first full-stack language, a language you can use from system programming tasks, up to high-level scripting through DSL.
+
 - [x] **Ruby**
 
 - [x] **Rust**
