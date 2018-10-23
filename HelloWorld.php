@@ -7,3 +7,5 @@
   $stringVar = 'hello world';
   var_dump($stringVar);
 ?>
+
+<?= 'Hello world' ?>
