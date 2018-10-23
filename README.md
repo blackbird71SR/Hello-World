@@ -140,6 +140,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+- [x] **MethodScript**
+
+MethodScript is the language used by the plugin for Spigot/CraftBukkit called [CommandHelper](https://methodscript.com/docs/3.3.3/). 
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
