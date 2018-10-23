@@ -6,4 +6,5 @@
   // if you want the variable data types as well use var_dump
   $stringVar = 'hello world';
   var_dump($stringVar);
+echo "Hasnain";
 ?>
