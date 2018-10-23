@@ -172,6 +172,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Ruby**
 
+Ruby is a multi-platform open-source, dynamic object-oriented interpreted language, created by Yukihiro Matsumoto (Matz) in 1995.
+
 - [x] **Rust**
 
 - [x] **Scala**
