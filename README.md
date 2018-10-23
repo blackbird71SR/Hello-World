@@ -170,6 +170,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **R**
 
+R is a language and environment for statistical computing and graphics. It is often used for statistical analysis in the Data Science community along with Python.
+
 - [x] **Ruby**
 
 - [x] **Rust**
