@@ -5,5 +5,7 @@
   print_r("Hello World");
   // if you want the variable data types as well use var_dump
   $stringVar = 'hello world';
+
+  echo "Hello World";
   var_dump($stringVar);
 ?>
