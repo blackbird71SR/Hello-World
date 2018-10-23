@@ -1,1 +1,5 @@
-console.log("Hello World!");
+function haloDunia() {
+  console.log("Halo Dunia !!");
+}
+
+haloDunia();
