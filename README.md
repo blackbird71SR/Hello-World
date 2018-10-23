@@ -170,6 +170,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **R**
 
+- [x] **React Native**
+
 - [x] **Ruby**
 
 - [x] **Rust**
