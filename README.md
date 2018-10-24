@@ -102,6 +102,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **Fortran**
 
+Fortan name is derived form formula transition.is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing.originally made by IBM in 1950's for scientific and engineering applications.
+
 - [x] **Go**
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
