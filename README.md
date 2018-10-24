@@ -140,6 +140,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+- [x] **Miranda**
+
+Miranda is a lazy, purely functional programming language designed by David Turner as a successor to his earlier programming languages SASL and KRC, using some concepts from ML and Hope. It was produced by Research Software Ltd. of England (which holds a trademark on the name Miranda) and was the first purely functional language to be commercially supported.
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
