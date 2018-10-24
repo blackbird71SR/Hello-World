@@ -169,8 +169,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 - [x] **Python**
 
 - [x] **R**
+R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
 
 - [x] **Ruby**
+Ruby is an open source, interpreted, object-oriented programming language created by Yukihiro Matsumoto, who chose the gemstone's name to suggest "a jewel of a language." Ruby is designed to be simple, complete, extensible, and portable.
 
 - [x] **Rust**
 
