@@ -1,7 +1,8 @@
 ; Author : Abhinav Thakur
 ; Email  : compilepeace@gmail.com
 
-; Description : This is a simple program to print "Hello World" to STDOUT in x86-64 bit inel Assembly
+; Description : This is a simple program to print "Hello World" to STDOUT in x86-64 bit (Linux platform),
+;		intel architecure's Assembly language
 
 
 
