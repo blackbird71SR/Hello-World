@@ -198,6 +198,12 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **TypeScript**
 
+- [x] **Unlambda**
+
+[Unlambda](http://www.madore.org/~david/programs/unlambda/) is a programming language. Nothing remarkable there. The originality of Unlambda is that it stands as the unexpected intersection of two marginal families of languages:
+1. Obfuscated programming languages, of which the canonical representative is Intercal. This means that the language was deliberately built to make programming painful and difficult (i.e. fun and challenging).
+1. Functional programming languages, of which the canonical representative is Scheme (a Lisp dialect). This means that the basic object manipulated by the language (and indeed the only one as far as Unlambda is concerned) is the function.
+
 - [x] **VB.NET**
 
 - [x] **Whitespace**
