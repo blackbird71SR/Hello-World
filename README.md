@@ -204,6 +204,10 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **VB.NET**
 
+- [x] **Verilog**
+
+Verilog is a Hardware Description Language; a textual format for describing electronic circuits and systems.
+
 - [x] **Whitespace**
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
