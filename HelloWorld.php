@@ -4,6 +4,8 @@
   // If you want to print in browser's console, we use print_r
   print_r("Hello World");
   // if you want the variable data types as well use var_dump
+  print("Hello World");
+  // print can be use to display data
   $stringVar = 'hello world';
   var_dump($stringVar);
 ?>
