@@ -102,6 +102,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **Fortran**
 
+Fortran is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing.
+
 - [x] **Go**
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
@@ -154,6 +156,8 @@ OCaml or Objective Caml, is a general purpose programming language with an empha
 
 - [x] **Perl**
 
+Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages, Perl 5 and Perl 6. Though Perl is not officially an acronym, there are various backronyms in use, including "Practical Extraction and Reporting Language".
+
 - [x] **Perl 6**
 
 - [x] **PHP**
@@ -168,13 +172,19 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Python**
 
+Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace.
+
 - [x] **R**
 
 - [x] **Ruby**
 
+Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, and Lisp.
+
 - [x] **Rust**
 
 - [x] **Scala**
+
+Scala is a general-purpose programming language providing support for functional programming and a strong static type system. Designed to be concise, many of Scala's design decisions aimed to address criticisms of Java.
 
 - [x] **Shakespeare**
 
@@ -185,6 +195,8 @@ The Shakespeare Programming Language is a programming language created with the 
 - [x] **Solidity**
 
 - [x] **SQL**
+
+SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.
 
 - [x] **Standard ML**
 
