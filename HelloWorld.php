@@ -1,9 +1,14 @@
 <?php
-  // In PHP, we use echo to print text
-  echo "Hello World";
-  // If you want to print in browser's console, we use print_r
-  print_r("Hello World");
-  // if you want the variable data types as well use var_dump
-  $stringVar = 'hello world';
-  var_dump($stringVar);
-?>
+// In PHP, we use echo to print strings
+echo "Hello, World!";
+
+// print_r allows you to echo information about a variable in a way that's readable by humans
+print_r("Hello, World!");
+
+// var_dump displays structured information about expression(s) that includes its type and value
+$stringVar = "Hello, World!";
+var_dump($stringVar);
+
+// Use sprintf to get a formatted string
+$who = "World";
+echo sprintf("Hello, %s!", $who);
