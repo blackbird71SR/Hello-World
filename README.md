@@ -136,6 +136,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lisp**
 
+- [x] **LOLCODE**
+
+LOLCODE is an esoteric programming language inspired by lolspeak, the language expressed in examples of the lolcat Internet meme. The language was created in 2007 by Adam Lindsay, researcher at the Computing Department of Lancaster University.
+
 - [x] **Lua**
 
 - [x] **Matlab**
@@ -175,6 +179,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 - [x] **Rust**
 
 - [x] **Scala**
+
+- [x] **Scheme**
+
+Scheme is a programming language that supports multiple paradigms, including functional programming and imperative programming, and is one of the two main dialects of Lisp. Unlike Common Lisp, the other main dialect, Scheme follows a minimalist design philosophy specifying a small standard core with powerful tools for language extension.
 
 - [x] **Shakespeare**
 
