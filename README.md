@@ -136,6 +136,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lisp**
 
+- [x] **LOLCODE**
+
+LOLCODE is an esoteric programming language which is based on 'lolspeak', the language used in those early internet memes of lolcats.
+
 - [x] **Lua**
 
 - [x] **Matlab**
