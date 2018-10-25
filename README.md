@@ -100,6 +100,10 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **F#**
 
+- [x] **Falcon**
+
+Falcon is an open source, multi-paradigm programming language.
+
 - [x] **Fortran**
 
 - [x] **Go**
