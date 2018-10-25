@@ -134,6 +134,10 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 
 Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework. 
 
+- [x] **LaTeX**
+
+LaTeX is a document preparation system for high-quality typesetting. It is most often used for medium-to-large technical or scientific documents but it can be used for almost any form of publishing.
+
 - [x] **Lisp**
 
 - [x] **Lua**
