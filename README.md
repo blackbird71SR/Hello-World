@@ -202,6 +202,8 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **Whitespace**
 
+- [x] **WolframMathematica**
+
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
 
 ## Contributors
