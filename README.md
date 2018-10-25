@@ -1,4 +1,4 @@
-# Hello-World
+﻿# Hello-World
 
 Hello World in all possible programming languages
 
@@ -169,6 +169,7 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 - [x] **Python**
 
 - [x] **R**
+R: Programming language that is supported by the R Foundation for Statistical Computing. It has uses in fields like statistics and data analysis. It is based on the S programming language and was created by Ross Ihaka and Robert Gentleman. Development of R first started in 1992, and it was initially released in 1995, but the first stable version was released in 2000.
 
 - [x] **Ruby**
 
