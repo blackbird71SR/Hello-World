@@ -166,6 +166,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Prolog**
 
+- [x] **Pug**
+
+Pug.js is a HTML templating engine, which means you can write much simpler Pug code, which Pug compiler will compile into HTML code, that browser can understand. ... Pug has powerful features like conditions, loops, includes, mixins using which we can render HTML code based on user input or reference data.
+
 - [x] **Python**
 
 - [x] **R**
