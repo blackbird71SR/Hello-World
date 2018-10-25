@@ -1,3 +1,3 @@
-variable <- "Hello World"
-print (variable)
+data <- "Hello World"
+print (data)
 
