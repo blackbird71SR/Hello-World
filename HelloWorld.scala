@@ -1,3 +1,5 @@
 object HelloWorld extends App {
-   println("Hello, World!")
+   for {
+     var <- Some("Hello world")
+   } yield println(var)
  }
