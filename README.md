@@ -172,6 +172,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Ruby**
 
+Ruby is an open-source dynamic programming language developed in the mid 1990's. It was designed and developed my Yukihiro "Matz" Matsumoto. Ruby was influenced by other Programming Languages like Perl, Smalltalk, Eiffel, Ada. It is purely Object-Oriented.
+
 - [x] **Rust**
 
 - [x] **Scala**
