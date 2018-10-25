@@ -200,6 +200,13 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **VB.NET**
 
+- [x] **VHDL**
+	
+	- VHDL is a horrible acronym. It stands for VHSIC Hardware Description Language. An acronym inside an acronym,
+	  awesome! VHSIC stands for Very High Speed Integrated Circuit.Therefore, VHDL expanded is Very High Speed Integrated Circuit      	  Hardware Description Language.
+	- A VHDL program is written in a text file and has the extension **“.vhd”** (sometimes, “.vhdl”). 
+	- Reference for VHDL tutorials :
+	   https://www.nandland.com/vhdl/tutorials/tutorial-introduction-to-vhdl-for-beginners.html
 - [x] **Whitespace**
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
