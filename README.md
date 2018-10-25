@@ -200,6 +200,10 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **VB.NET**
 
+- [x] **VHDL**
+
+VHDL is a hardware description language used in electronic design automation to describe digital and mixed-signal systems such as field-programmable gate arrays and integrated circuits. VHDL can also be used as a general purpose parallel programming language
+
 - [x] **Whitespace**
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
