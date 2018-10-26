@@ -30,7 +30,8 @@ ABAP is a high-level programming language created by the German software company
 
 - [x] **Assembly**
 An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
-
+- [x] **ArnoldC**
+Programming language based on the one-liners of Arnold Schwarzenegger.
 - [x] **Autoit**
 AutoIt is a freeware automation language for Microsoft Windows. In its earliest release, the software was primarily intended to create automation scripts for Microsoft Windows programs but has since grown to include enhancements in both programming language design and overall functionality.
 - [x] **BASIC**
