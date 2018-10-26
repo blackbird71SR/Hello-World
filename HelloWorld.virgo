@@ -1,0 +1,15 @@
+push h
+push e
+push l
+push l
+push o
+push _ch32
+push w
+push o
+push r
+push l
+push d
+alloc myStr
+poparr myStr
+push myStr
+call cout.
