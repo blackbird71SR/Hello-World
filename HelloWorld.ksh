@@ -1,5 +1,5 @@
 #!/bin/ksh
-# Purpose: Korne shell script (ksh) "Hello World" contribution using parameter substitution to provide a default message.
+# Purpose: KornShell (ksh) script "Hello World" implementation using parameter substitution to provide a default message.
 # Usage: ./HelloWorld.ksh
 
 # Set the message, using parameter substitution to set a default
