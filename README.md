@@ -1,4 +1,4 @@
-# Hello-World
+﻿# Hello-World
 
 Hello World in all possible programming languages
 
@@ -153,6 +153,8 @@ OCaml or Objective Caml, is a general purpose programming language with an empha
 - [x] **Pascal**
 
 - [x] **Perl**
+
+Perl is a general-purpose programming language that is often used when developing when applications. It is a relatively easier language to get familiar with before moving on to others such as Java.
 
 - [x] **Perl 6**
 
