@@ -184,6 +184,8 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Solidity**
 
+Solidity is a contract-oriented programming language for writing smart contracts.[1] It is used for implementing smart contracts[2] on various blockchain platforms.[3][4][5] It was developed by Gavin Wood, Christian Reitwiessner, Alex Beregszaszi, Liana Husikyan, Yoichi Hirai and several former Ethereum core contributors to enable writing smart contracts on blockchain platforms such as Ethereum
+
 - [x] **SQL**
 
 - [x] **Standard ML**
