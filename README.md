@@ -144,6 +144,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
 
+- [x] **React**
+
+React is a JavaScript library for building user interfaces.To know more goto [React](https://reactjs.org/docs/getting-started.html/).
+
 - [x] **Objective-C**
 
 - [x] **OCaml**
