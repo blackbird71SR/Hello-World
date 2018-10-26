@@ -170,6 +170,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **R**
 
+- [x] **RPG**
+
+RPG is a high-level programming language (HLL) for business applications. RPG is an IBM proprietary programming language and its later versions are available only on IBM i- or OS/400-based systems.
+
 - [x] **Ruby**
 
 - [x] **Rust**
