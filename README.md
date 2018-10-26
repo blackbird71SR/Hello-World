@@ -176,6 +176,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Scala**
 
+scala is a general-purpose programming language providing support for functional programming and a strong static type system. Designed to be concise,[10] many of Scala's design decisions aimed to address criticisms of Java.Scala source code is intended to be compiled to Java bytecode, so that the resulting executable code runs on a Java virtual machine. Scala provides language interoperability with Java, so that libraries written in both languages may be referenced directly in Scala or Java code.
+
 - [x] **Shakespeare**
 
 The Shakespeare Programming Language is a programming language created with the design goal to make the source code resemble Shakespeare plays.  There are no fancy data or control structures, just basic arithmetic and gotos. The language combines the expressiveness of BASIC with the user-friendliness of assembly language, but is much more verbose.
@@ -184,11 +186,13 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Solidity**
 
+
+
 - [x] **SQL**
 
-- [x] **Standard ML**
+Standard ML is a general-purpose, modular, functional pr
 
-Standard ML is a general-purpose, modular, functional programming language with compile-time type checking and type inference; and a descendant of the ML programming language used in the Logic for Computable Functions theorem-proving project.
+- [x] **Standard ML**ogramming language with compile-time type checking and type inference; and a descendant of the ML programming language used in the Logic for Computable Functions theorem-proving project.
 
 - [x] **Swift**
 
