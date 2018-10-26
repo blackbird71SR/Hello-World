@@ -136,6 +136,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lisp**
 
+- [x] **Logo**
+
+Logo is an educational programming language, designed in 1967 by Wally Feurzeig, Seymour Papert and Cynthia Solomon. "Logo" is not an acronym: the name was coined by Feurzeig while he was at Bolt, Beranek and Newman, and derives from the Greek logos, meaning word or "thought". A general-purpose language, Logo is widely known for its use of turtle graphics, in which commands for movement and drawing produced line graphics either on screen or with a small robot called a turtle.
+
 - [x] **Lua**
 
 - [x] **Matlab**
