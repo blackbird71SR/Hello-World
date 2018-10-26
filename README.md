@@ -186,6 +186,8 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **SQL**
 
+SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data
+
 - [x] **Standard ML**
 
 Standard ML is a general-purpose, modular, functional programming language with compile-time type checking and type inference; and a descendant of the ML programming language used in the Logic for Computable Functions theorem-proving project.
