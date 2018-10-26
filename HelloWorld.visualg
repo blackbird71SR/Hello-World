@@ -1,0 +1,6 @@
+programa
+{
+    funcao inicio(){
+        escreva("Diga o seu nome: ")
+    }
+}
