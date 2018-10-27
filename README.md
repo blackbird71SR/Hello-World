@@ -1,10 +1,10 @@
 # Hello-World
 
-Hello World in all possible programming languages
+Hello World in all possible programming languages.
 
 ## Aim
 
-This repository should eventually contain the famous "Hello World" program in all the programming languages possible...
+This repository should eventually contain the famous "Hello World" program in all the programming languages possible.....
 
 ## How to Contribute to this repository
 
