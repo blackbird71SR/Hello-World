@@ -45,6 +45,11 @@ A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It con
 - [x] **Brainfuck**
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
 
+- [x] **BrightScript**
+
+	Roku BrightScript is a powerful scripting language that makes it easy and quick to build media and networked applications for 		embedded devices. The language has integrated support for BrightScript Components, a library of lightweight components. The APIs 	 of the platform (device) BrightScript is running on are all exposed to BrightScript as BrightScript Components.
+	**Reference:** https://sdkdocs.roku.com/display/sdkdoc/BrightScript+Language+Reference
+
 - [x] **C**
 
 C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
