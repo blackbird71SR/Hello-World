@@ -164,6 +164,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **PowerShell**
 
+PowerShell is a task-based command-line shell and scripting language built on .NET.  by Microsoft. PowerShell helps system administrators and power-users rapidly automate tasks that manage operating systems and processes. PowerShell commands let you manage computers from the command line, by using what are referred to as cmdlets. Powershell providers let you access data stores, such as the registry and certificate store, as easily as you access the file system. PowerShell includes a rich expression parser and a fully developed scripting language. PowerShell is also now open-source and the base source code is now available in GitHub and open to community contributions.
+
 - [x] **Prolog**
 
 - [x] **Python**
