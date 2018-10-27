@@ -139,6 +139,7 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 - [x] **Lua**
 
 - [x] **Matlab**
+MATLAB is a numerical computing programming language. You can plot functions, manipulate matrices, and perform other mathematical operations.
 
 - [x] **Nim**
 
