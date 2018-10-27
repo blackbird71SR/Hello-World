@@ -25,7 +25,7 @@ This repository should eventually contain the famous "Hello World" program in al
 
 ## Languages Covered
 
-- [x] **ABAP**
+- [x] **ABAP** [Documentation](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abenabap.htm)
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
 - [x] **Assembly**
@@ -156,13 +156,15 @@ OCaml or Objective Caml, is a general purpose programming language with an empha
 
 - [x] **Perl 6**
 
-- [x] **PHP**
+- [x] **PHP**[Documentation](http://php.net/docs.php)
 
 PHP: Hypertext Preprocessor is a server-side scripting language designed for Web development, but also used as a general-purpose programming language. It was originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Group.
 
 - [x] **PostScript**
 
 - [x] **PowerShell**
+
+PowerShell is a task-based command-line shell and scripting language built on .NET.  by Microsoft. PowerShell helps system administrators and power-users rapidly automate tasks that manage operating systems and processes. PowerShell commands let you manage computers from the command line, by using what are referred to as cmdlets. Powershell providers let you access data stores, such as the registry and certificate store, as easily as you access the file system. PowerShell includes a rich expression parser and a fully developed scripting language. PowerShell is also now open-source and the base source code is now available in GitHub and open to community contributions.
 
 - [x] **Prolog**
 
