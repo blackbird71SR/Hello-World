@@ -1,4 +1,4 @@
-# Hello-World
+﻿# Hello-World
 
 Hello World in all possible programming languages
 
@@ -169,6 +169,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 - [x] **Python**
 
 - [x] **R**
+
+- [x] **Racket**
 
 - [x] **Ruby**
 
