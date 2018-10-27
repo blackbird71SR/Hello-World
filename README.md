@@ -25,6 +25,9 @@ This repository should eventually contain the famous "Hello World" program in al
 
 ## Languages Covered
 
+- [x] **ADA**
+Ada is a structured, statically typed, imperative, and object-oriented high-level computer programming language, extended from Pascal and other languages.
+  
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
