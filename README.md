@@ -109,6 +109,7 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 - [x] **Groovy**
 
 - [x] **Haskell**
+Haskell is a standardized, general-purpose compiled purely functional programming language, with non-strict semantics and strong static typing. It is named after logician Haskell Curry. The latest standard of Haskell is Haskell 2010., a group is working on the next version, Haskell 2020.
 
 - [x] **HTML**
 
