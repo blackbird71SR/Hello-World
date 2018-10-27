@@ -199,16 +199,16 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **TypeScript**
 
+- [x] **Unicon**
+
+Unicon is a very high level, goal-directed,
+object-oriented, general purpose applications language.
+
 - [x] **VB.NET**
 
 - [x] **Whitespace**
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
-
-- [x] **Unicon**
-
-Unicon is a very high level, goal-directed,
-object-oriented, general purpose applications language.
 
 ## Contributors
 
