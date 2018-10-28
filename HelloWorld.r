@@ -1,3 +1,1 @@
-variable <- "Hello World"
-print (variable)
-
+cat("Hello world\n") 
