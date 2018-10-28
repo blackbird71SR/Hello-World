@@ -1,4 +1,8 @@
 procedure TForm1.ShowAMessage;
 begin
+  ShowMessage('Hell!!!!!!!!!!!!o World!');
+    ShowMessage('Hello World!');
+      ShowMessage('Hello World!');  ShowMessage('Hello World!');  ShowMessage('Hello World!');
+        ShowMessage('Hello World!');
   ShowMessage('Hello World!');
 end;
