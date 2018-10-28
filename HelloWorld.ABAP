@@ -3,3 +3,5 @@ REPORT zhelloworld
 WRITE 'Hello World'.
 * Display hello world message.
 MESSAGE 'Hello World' TYPE 'I'.
+* Display hello world in a new style class output.
+cl_demo_output=>display('Hello World').
