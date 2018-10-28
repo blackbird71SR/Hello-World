@@ -144,6 +144,12 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
 
+- [x] **Applescript**
+
+If you’re on a Mac you can use this to automate and customise your applications.
+
+
+
 - [x] **Objective-C**
 
 - [x] **OCaml**
