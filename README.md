@@ -31,11 +31,14 @@ ABAP is a high-level programming language created by the German software company
 -[x] **ADA**
 It is a statically typed, structured, imperative programming language that is based on Pascal. A team of CII Honeywell Bull that was led by Jean Ichbiah developed Ada. The Ada compilers are validated for mission-critical systems. Ada is an internationally standardized computer programming language.
 
--[x]**ALGOL**
+-[x] **ALGOL**
 Algorithmic Language, as it is called, is actually a family of imperative programming languages that was developed in the middle 1950s. It proved instrumental in the creation of programming languages like BCPL, B and C. Ole-Johan Dahl and Kristen Nygaard of the Norwegian Computing Center in Oslo were the brains behind Simula.
 
 -[x] **APL**
 Named after the book A Programming Language (Iverson, Kenneth E., 1962), APL is an array programming language. It can work simultaneously on multiple arrays of data. It is interpretive, interactive and a functional programming language.
+
+-[x] **Arduino**
+Arduino language is merely a set of C/C++ functions that can be called from your code. Your sketch undergoes minor changes (e.g. automatic generation of function prototypes) and then is passed directly to a C/C++ compiler (avr-g++).
 
 - [x] **Assembly**
 An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
