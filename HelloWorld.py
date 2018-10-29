@@ -1,1 +1,2 @@
-print('Hello World')
+hi = 'Hello World'
+print(f'{hi}')
