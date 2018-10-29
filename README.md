@@ -1,10 +1,10 @@
 # Hello-World
 
-Hello World in all possible programming languages
+Hello World in all possible programming languages.
 
 ## Aim
 
-This repository should eventually contain the famous "Hello World" program in all the programming languages possible...
+This repository should eventually contains the famous "Hello World" program in all the programming languages possible...
 
 ## How to Contribute to this repository
 
@@ -67,7 +67,8 @@ COOL or Classroom Object Oriented Language is used for teaching compilers and is
 
 - [x] **CoffeeScript**
 
-CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matc
+CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability. Specific additional features include list comprehension and pattern match.
+
 - [x] **ClojureScript**
 
 Clojure is a dialect of the Lisp programming language. Clojure is a general-purpose programming language with an emphasis on functional programming. It runs on the Java virtual machine and the Common Language Runtime.
@@ -112,7 +113,7 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 
 - [x] **HTML**
 
-Html Stands For Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+Html stands for Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
 
 - [x] **INTERCAL**
 
