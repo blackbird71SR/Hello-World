@@ -114,6 +114,9 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 
 Html Stands For Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
 
+- [x] **XML**
+Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
+
 - [x] **INTERCAL**
 
 INTERCAL was created in 1972 by two hackers from Princeton as a parody to satirizes various aspects of programming languages then. Anything that the compiler couldn't understand got skipped and the entire code read like someone pleading. The language was Turing-complete, and hence capable of implementing any algorithm. Though the programmer might be driven into advanced stages of insanity from the attempt.
