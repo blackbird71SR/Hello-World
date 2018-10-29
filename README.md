@@ -28,6 +28,12 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
+- [x] **ArnoldC**
+ArnoldC is an esoteric programming language created with Scala by Lauri Hartikka.ArnoldC runs on famous quotations by Arnold Schwarzenegger.The few online interpreters available for ArnoldC include:
+    -ArnoldC cyber simulator, a simple online compiler.
+    -ArnoldC cyber simulator v2, the less buggy version of ArnoldC cyber simulator.
+    -Try It Online's ArnoldC compiler, which is by far the most functional.
+
 - [x] **Assembly**
 An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
 
