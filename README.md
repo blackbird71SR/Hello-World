@@ -82,7 +82,7 @@ D is an object-oriented, imperative, multi-paradigm system programming language 
 
 - [x] **Dart**
 
-Dart is a general-purpose programming language originally developed by Google and later has been standardized. It is used to build web, server, and mobile applications. It's getting more and more exposed through Flutter cross-platform mobile development framework. Dart is an object-oriented, class defined language using the good-old C-style syntax that can be optionally compiled into JavaScript. It supports interfaces, mixins, abstract classes, reified generics, static typing, and a sound type system.
+Dart is a general-purpose programming language originally developed by Google and later has been standardized. It is used to build web, server, and mobile applications. It's getting more and more exposed through Flutter cross-platform mobile development framework. Dart is an object-oriented, class defined language using the good-old C-style syntax that can be optionally compiled into JavaScript. It supports interfaces, mixins, abstract classes, reified generics, static typing, and a sound type system. 
 
 - [x] **Delphi**
 
@@ -167,6 +167,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 - [x] **Prolog**
 
 - [x] **Python**
+
+Python is an interpreted high-level programming language for general-purpose programming that fully supports structured programming and object-oriented programming (OOP). Its design emphasizes code readability through the use of white-spaces. It features a dynamic type system and automatic memory management. It's a very user-friendly, multi-purpose, flexible language.
 
 - [x] **R**
 
