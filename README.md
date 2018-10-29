@@ -64,6 +64,9 @@ BASIC is a family of general-purpose, high-level programming languages whose des
 
 A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file.
 
+-[x] **BPCL**
+BCPL is a procedural, imperative, and structured computer programming language. Originally intended for writing compilers for other languages, BCPL is no longer in common use.
+
 - [x] **Brainfuck**
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
 
@@ -97,6 +100,9 @@ Clojure is a dialect of the Lisp programming language. Clojure is a general-purp
 - [x] **Crystal**
 
 Crystal is a programming language that is still under development which aims to provide a programming experience that is “Fast as C, slick as Ruby”.
+
+-[x] **CSS**
+Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
 - [x] **D**
 
