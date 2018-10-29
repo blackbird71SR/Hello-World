@@ -1,0 +1,7 @@
+body:before {
+	content: 'Hello World!';
+	font-size: 100vw;
+	color: #000000;
+	position: fixed-top;
+}
+
