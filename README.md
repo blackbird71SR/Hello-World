@@ -100,6 +100,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **F#**
 
+F# is a functional-first language with features and idioms for both functional and object-oriented programming. It has been designed for functional programming on .NET while also offering clean interop with C# and existing codebases.
+
 - [x] **Fortran**
 
 - [x] **Go**
