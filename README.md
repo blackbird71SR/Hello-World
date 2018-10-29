@@ -104,6 +104,8 @@ F# (pronounced F sharp) is a strongly typed, multi-paradigm programming language
 
 - [x] **Fortran**
 
+Fortran is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing. 
+
 - [x] **Go**
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
