@@ -138,6 +138,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lua**
 
+- [x] **Malbolge**
+
+Malbolge is an esoteric programming language invented by Ben Olmstead in 1998 named after the eighth circle of hell in Dante's Inferno, the Malebolge.
+
 - [x] **Matlab**
 
 - [x] **Nim**
