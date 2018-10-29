@@ -37,6 +37,9 @@ Algorithmic Language, as it is called, is actually a family of imperative progra
 -[x] **APL**
 Named after the book A Programming Language (Iverson, Kenneth E., 1962), APL is an array programming language. It can work simultaneously on multiple arrays of data. It is interpretive, interactive and a functional programming language.
 
+-[x] **Apple Script**
+AppleScript is a scripting language created by Apple Inc. that facilitates automated control over scriptable Mac applications. First introduced in System 7, it is currently included in all versions of macOS as part of a package of system automation tools.
+
 -[x] **Arduino**
 Arduino language is merely a set of C/C++ functions that can be called from your code. Your sketch undergoes minor changes (e.g. automatic generation of function prototypes) and then is passed directly to a C/C++ compiler (avr-g++).
 
