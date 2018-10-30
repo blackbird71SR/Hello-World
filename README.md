@@ -140,6 +140,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+- [x] **MIPS**
+
+MIPS is a reduced instruction set architecture for embedded processors. It is a very low level language which can directly manipulate register values and pointers. To run MIPS it is easiest to download the MARS jar online.
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
