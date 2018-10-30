@@ -166,6 +166,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Prolog**
 
+- [X] **Pure Basic**
+
 - [x] **Python**
 
 - [x] **R**
