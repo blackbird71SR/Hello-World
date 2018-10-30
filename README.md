@@ -176,6 +176,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Scala**
 
+Scala combines object-oriented and functional programming in one concise, high-level language. Scala's static types help avoid bugs in complex applications, and its JVM and JavaScript runtimes let you build high-performance systems with easy access to huge ecosystems of libraries.
+
 - [x] **Shakespeare**
 
 The Shakespeare Programming Language is a programming language created with the design goal to make the source code resemble Shakespeare plays.  There are no fancy data or control structures, just basic arithmetic and gotos. The language combines the expressiveness of BASIC with the user-friendliness of assembly language, but is much more verbose.
