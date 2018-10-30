@@ -35,7 +35,7 @@ An assembly language, often abbreviated asm, is any low-level programming langua
 AutoIt is a freeware automation language for Microsoft Windows. In its earliest release, the software was primarily intended to create automation scripts for Microsoft Windows programs but has since grown to include enhancements in both programming language design and overall functionality.
 - [x] **BASIC**
 BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
-  
+
 BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
 
 - [x] **Batch**
@@ -56,6 +56,16 @@ C# is a general-purpose, multi-paradigm programming language encompassing strong
 - [x] **C++**
 
 C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language. It is therefore possible to code C++ in a "C style" or "object-oriented style." C++ is considered to be an intermediate-level language, as it encapsulates both high- and low-level language features. Initially, the language was called "C with classes" as it had all the properties of the C language with an additional concept of "classes."
+
+- [x] **Chicken**
+
+Chicken is an esoteric programming language by Torbjörn Söderstedt, in which "chicken" is the only valid symbol.
+
+A chicken program consists of the tokens "chicken", " " and "\n". Every line has a number of chickens separated by spaces. The number of chickens corresponds to an opcode. Trailing newlines are significant, as an empty line will produce a "0" opcode.
+
+Instructions are loaded onto the stack and executed there directly, which allows for injecting arbitrary code and executing it through a jump. Self-modifying code is also possible because the program stack is not bounded.
+
+The user is able to supply an input value before executing the program. This input is stored in one of the two registers.
 
 - [x] **Cobol**
 
@@ -86,7 +96,7 @@ Dart is a general-purpose programming language originally developed by Google an
 
 - [x] **Delphi**
 
-Delphi is both an object oriented programming language (OOP) and an Integrated Development Environment (IDE). Published by the Embarcadero company (formerly CodeGear and more formerly Borland), Delphi is an alternative to language such as Visual Basic offering development with both rapidity and good quality. 
+Delphi is both an object oriented programming language (OOP) and an Integrated Development Environment (IDE). Published by the Embarcadero company (formerly CodeGear and more formerly Borland), Delphi is an alternative to language such as Visual Basic offering development with both rapidity and good quality.
 
 - [x] **Elixir**
 
@@ -132,7 +142,7 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 
 - [x] **Kotlin**
 
-Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework. 
+Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework.
 
 - [x] **Lisp**
 
