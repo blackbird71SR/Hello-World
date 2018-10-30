@@ -168,6 +168,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Python**
 
+Python is a general-purpose programming language designed for code readability, notably using whitespace for syntax. Python was originally created by Guido van Rossum in 1990. It features a dynamic type system and automatic memory management and is considered a good starting language for new programmers based on it's similarity to natural language patterns and writing styles. It can be used for object-oriented, imperative, functional and procedural programming.
+
 - [x] **R**
 
 - [x] **Ruby**
