@@ -150,6 +150,10 @@ Nim is a systems and applications programming language. Statically typed and com
 
 OCaml or Objective Caml, is a general purpose programming language with an emphasis on expressiveness and safety.
 
+- [x] **Oxygene**
+
+Oxygene (formerly known as Chrome) is a programming language developed by RemObjects Software for Microsoft's Common Language Infrastructure, the Java Platform and Cocoa. Oxygene is Object Pascal-based, but also has influences from C#, Eiffel, Java, F# and other languages.
+
 - [x] **Pascal**
 
 - [x] **Perl**
