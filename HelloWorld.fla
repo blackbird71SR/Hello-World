@@ -1,0 +1,3 @@
+on(release){
+	textbox1.text="hello world"
+}
