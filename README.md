@@ -186,6 +186,8 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **SQL**
 
+SQL (Structured Query Language) is a standardized programming language used for managing relational databases and performing various operations on the data in them. Initially created in the 1970s, SQL is regularly used by database administrators, as well as by developers writing data integration scripts and data analysts looking to set up and run analytical queries.
+
 - [x] **Standard ML**
 
 Standard ML is a general-purpose, modular, functional programming language with compile-time type checking and type inference; and a descendant of the ML programming language used in the Logic for Computable Functions theorem-proving project.
