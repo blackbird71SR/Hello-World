@@ -100,6 +100,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **F#**
 
+F# (pronounced F sharp) is a strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods. F# is most often used as a cross-platform Common Language Infrastructure (CLI) language, but it can also generate JavaScript and graphics processing unit (GPU) code.
+
 - [x] **Fortran**
 
 - [x] **Go**
