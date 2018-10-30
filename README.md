@@ -140,6 +140,8 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+MATLAB (matrix laboratory) is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages, including C, C++, C#, Java, Fortran and Python.
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
