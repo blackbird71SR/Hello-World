@@ -49,6 +49,9 @@ Brainfuck is an esoteric programming language created in 1993 by Urban Müller, 
 
 C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
 
+- [x] **pawn**
+pawn is a simple, typeless, 32-bit extension language with a C-like syntax. A pawn "source" program is compiled to a binary file for optimal execution speed. The pawn compiler outputs P-code (or bytecode) that subsequently runs on an abstract machine. Execution speed, stability, simplicity and a small footprint were essential design criteria for both the language and the abstract machine.
+
 - [x] **C#**
 
 C# is a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a standard by Ecma and ISO.
