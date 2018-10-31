@@ -100,6 +100,11 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **F#**
 
+- [x] **FALSE**
+
+FALSE is one of the oldest esoteric languages, ancestor to a whole generation of languages with one-character commands. Unlike most later languages, FALSE provides quite a lot of features, including named variables, strings and lambda-functions.
+FALSE was created by Wouter van Oortmerssen in 1993. He had two objectives: creating a confusing APL-style syntax and designing a language as powerful as possible while keeping the compiler as small as possible. At the end the compiler was written in Assembler and took only 1024 bytes. A lot of language elements, including usage of stack as main data structure, were borrowed from Forth.
+
 - [x] **Fortran**
 
 - [x] **Go**
