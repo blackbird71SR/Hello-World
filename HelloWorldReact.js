@@ -7,5 +7,5 @@ const HelloWorld = () => {
 
 ReactDOM.render(
   <HelloWorld />, 
-  document.getElementById("root)
+  document.getElementById("root")
 );
