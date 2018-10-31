@@ -186,6 +186,10 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **SQL**
 
+- [x] **Stack Cats**
+
+[Stack Cats](https://esolangs.org/wiki/Stack_Cats) (abbreviated as SKS) is a stack-based, reversible programming language developed by Martin Ender and (someone else). It was originally conceived of for a language-design challenge on Code Golf Stack Exchange, but later designed and developed independently of that.
+
 - [x] **Standard ML**
 
 Standard ML is a general-purpose, modular, functional programming language with compile-time type checking and type inference; and a descendant of the ML programming language used in the Logic for Computable Functions theorem-proving project.
