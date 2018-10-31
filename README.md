@@ -28,6 +28,9 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
+- [x] **AsciiDots**
+AsciiDots is an esoteric programming language based on ascii art. In this language, dots, represented by periods (.), travel down ascii art paths and undergo operations.
+
 - [x] **Assembly**
 An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
 
