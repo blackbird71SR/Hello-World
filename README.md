@@ -168,6 +168,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Python**
 
+Python is an interpreted programming language created by Guido van Rossum in 1991. It is an open source general-purpose language designed to be simple and easy to read. 
+
 - [x] **R**
 
 - [x] **Ruby**
