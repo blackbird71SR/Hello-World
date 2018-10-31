@@ -184,6 +184,8 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Solidity**
 
+- [x] **VHDL**
+
 - [x] **SQL**
 
 - [x] **Standard ML**
