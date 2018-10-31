@@ -198,6 +198,10 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **TypeScript**
 
+- [x] **Unicat**
+
+[Unicat](https://esolangs.org/wiki/Unicat) is an esoteric programming language created in 2015 by Gemdude46. The language is programmed using the 9 cat emoji: ( 😸 😹 😺 😻 😼 😽 😾 😿 🙀 ) All other characters are ignored.
+
 - [x] **VB.NET**
 
 - [x] **Whitespace**
