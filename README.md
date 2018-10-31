@@ -118,6 +118,9 @@ Html Stands For Hypertext Markup Language (HTML) is the standard markup language
 
 INTERCAL was created in 1972 by two hackers from Princeton as a parody to satirizes various aspects of programming languages then. Anything that the compiler couldn't understand got skipped and the entire code read like someone pleading. The language was Turing-complete, and hence capable of implementing any algorithm. Though the programmer might be driven into advanced stages of insanity from the attempt.
 
+- [x] **ImageFuck**
+ImageFuck is an Esoteric language based on BrainFuck in which the instructions of the language are translated to 8 specific colours. When an image is passed into an ImageFuck interpreter, these colours are translated into BrainFuck, which are then executed as BrainFuck intructions, all other colours are ignored.
+
 - [x] **Java**
 
 Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
