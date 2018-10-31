@@ -106,6 +106,10 @@ Erlang is a general purpose or you might say a functional programming language a
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 
+- [x] **Gosu**
+
+Gosu is a statically-typed general-purpose programming language that runs on the Java Virtual Machine. Its influences include Java, C#, and ECMAScript.
+
 - [x] **Groovy**
 
 - [x] **Haskell**
