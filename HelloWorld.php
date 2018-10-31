@@ -1,3 +1,5 @@
+## This code is in PHP Language.
+
 <?php
   // In PHP, we use echo to print text
   echo "Hello World";
