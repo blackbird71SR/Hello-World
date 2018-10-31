@@ -1,3 +1,5 @@
+## This code is in C programming language.
+
 #include<stdio.h>
 
 int main(void)
