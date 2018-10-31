@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-const HelloWorld = () => {
+const HelloWorldReact = () => {
   return <h1>Hell World, from ReactJs!</h1>
 }
 
 ReactDOM.render(
-  <HelloWorld />, 
+  <HelloWorldReact />, 
   document.getElementById("root")
 );
