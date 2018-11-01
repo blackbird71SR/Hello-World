@@ -6,4 +6,9 @@
   // if you want the variable data types as well use var_dump
   $stringVar = 'hello world';
   var_dump($stringVar);
-?>
+  // If you want to print text with function
+  function sayHello($sometext) {
+    echo 'Hello ' . $sometext;
+  }
+  sayHello('World');
+
