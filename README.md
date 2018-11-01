@@ -168,6 +168,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Python**
 
+- [x] [**Q#**](https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview#microsoft-quantum-development-kit-components)
+
+Q# is a domain-specific programming language used for expressing quantum algorithms. It is used for writing sub-programs that execute on an adjunct quantum processor under the control of a classical host program and computer.
+
 - [x] **R**
 
 - [x] **Ruby**
