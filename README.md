@@ -164,6 +164,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **PowerShell**
 
+- [x] **Processing**
+
+Processing is an open source programming language particularly suited for experimentation and creative expression in visual art. 
+
 - [x] **Prolog**
 
 - [x] **Python**
