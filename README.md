@@ -200,6 +200,10 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **TypeScript**
 
+- [x] **UnrealScript**
+
+UnrealScript is the scripting language for the Unreal Engines prior to UE4. Similar to Java, UnrealScript is object-oriented without multiple inheritance (classes all inherit from a common Object class), and classes are defined in individual files named for the class they define. Unlike Java, UnrealScript is case-insensitive, and does not have object wrappers for primitive types. This powerful scripting language has lead to the longevity of the old Unreal and Unreal Tournament games. 
+
 - [x] **VB.NET**
 
 - [x] **Whitespace**
