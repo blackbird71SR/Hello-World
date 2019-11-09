@@ -186,6 +186,8 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Solidity**
 
+Solidity is a contract-oriented programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms.
+
 - [x] **SQL**
 
 - [x] **Standard ML**
