@@ -112,6 +112,8 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 
 - [x] **Haskell**
 
+Haskell is a standardized, general-purpose, purely functional programming language with non-strict semantics and strong static typing. It is named after logician Haskell Curry. 
+
 - [x] **HTML**
 
 Html Stands For Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
@@ -170,11 +172,15 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Python**
 
+PYTHON: Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace.
+
 - [x] **R**
 
 - [x] **Ruby**
 
 - [x] **Rust**
+
+Rust is a systems programming language with a focus on safety, especially safe concurrency, supporting functional and imperative-procedural paradigms. Rust is syntactically similar to C++, but its designers intend it to provide better memory safety while still maintaining performance.
 
 - [x] **Scala**
 
