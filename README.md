@@ -112,6 +112,8 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 
 - [x] **Haskell**
 
+Haskell is a standardized, general-purpose, purely functional programming language with non-strict semantics and strong static typing. It is named after logician Haskell Curry. 
+
 - [x] **HTML**
 
 Html Stands For Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
@@ -170,6 +172,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Python**
 
+PYTHON: Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace.
+
 - [x] **R**
 
 - [x] **Ruby**
@@ -183,6 +187,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 The Shakespeare Programming Language is a programming language created with the design goal to make the source code resemble Shakespeare plays.  There are no fancy data or control structures, just basic arithmetic and gotos. The language combines the expressiveness of BASIC with the user-friendliness of assembly language, but is much more verbose.
 
 - [x] **Shell**
+
+A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter. The various dialects of shell scripts are considered to be scripting languages. 
 
 - [x] **Solidity**
 
@@ -199,6 +205,8 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 - [x] **Tool Comman Language(TCL)**
 
 - [x] **TypeScript**
+
+TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript.
 
 - [x] **VB.NET**
 
