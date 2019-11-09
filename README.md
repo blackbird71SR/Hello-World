@@ -96,6 +96,9 @@ Elixir is a functional, concurrent, general-purpose programming language that ru
 
 - [x] **Emojic**
 
+Emojicode is an open-source, full-blown programming language consisting of emojis.
+
+
 - [x] **Erlang**
 
 Erlang is a general purpose or you might say a functional programming language and runtime environment. It was built in such a way that it had inherent support for concurrency, distribution and fault tolerance. Erlang was originally developed to be used in several large telecommunication systems. But it has now slowly made its foray into diverse sectors like ecommerce, computer telephony and banking sectors as well.
