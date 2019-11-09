@@ -198,7 +198,11 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **Tool Comman Language(TCL)**
 
+Tcl is a high-level, general-purpose, interpreted, dynamic programming language. It was designed with the goal of being very simple but powerful. Tcl casts everything into the mold of a command, even programming constructs like variable assignment and procedure definition.
+
 - [x] **TypeScript**
+
+TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript.
 
 - [x] **VB.NET**
 
