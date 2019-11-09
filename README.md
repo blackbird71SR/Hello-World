@@ -142,6 +142,8 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+MATLAB (MATrix LABoratory) is one of the high-performance languages used for technical computations, by integrating the visualization, programming and easy-to-use environment where mathematical notations are used to express the problems and solutions. MATLAB application is built on the basis of MATLAB scripting language. The development of MATLAB began at the end of 1970s by Cleve Moler, at the University of New Mexico. Uses for MATLAB include matrix calculations, developing and running algorithms, creating user interfaces and data visualization.
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
