@@ -104,13 +104,19 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **Fortran**
 
+Fortran is one of the oldest programming languages that was developed by scientists at IBM in the 1950s. It was also the first high-level programming language that used the very first compiler that was developed. The latest version of Fortran, Fortran 90, allows users to include inline comments, operate in arrays, use recursive procedures and dynamically allocate memory.
+
 - [x] **Go**
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 
 - [x] **Groovy**
 
+Groovy, also known as Apache Groovy, is an object-oriented programming language for the Java platform that uses the Java syntax. It can be used as both a programming and scripting language. The language has static typing compilation, aimed at improving developer productivity, due to Domain-Specific Languages and its ability to integrate and interoperate with Java and third-party libraries. 
+
 - [x] **Haskell**
+
+Haskell: Haskell is a programming language that is purely functional and statically typed. Types also do not have to be declared and are inferred by linking every type, such as int, bidirectionally. It also offers lazy evaluation, which means that evaluation of an expression is delayed until it is needed and avoids repeating evaluations that have already taken place. It is mainly implemented in the Glasgow Haskell compiler and used in academia and industry.
 
 - [x] **HTML**
 
