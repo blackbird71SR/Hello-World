@@ -152,6 +152,8 @@ Nim is a systems and applications programming language. Statically typed and com
 
 OCaml or Objective Caml, is a general purpose programming language with an emphasis on expressiveness and safety.
 
+- [x] **Omgrofl**
+
 - [x] **Pascal**
 
 - [x] **Perl**
@@ -161,6 +163,8 @@ OCaml or Objective Caml, is a general purpose programming language with an empha
 - [x] **PHP**
 
 PHP: Hypertext Preprocessor is a server-side scripting language designed for Web development, but also used as a general-purpose programming language. It was originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Group.
+
+- [x] **Piet**
 
 - [x] **PostScript**
 
