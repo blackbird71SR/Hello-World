@@ -1,7 +1,9 @@
 #include<stdio.h>
+#include<conio.h>
 
-int main(void)
+void main()
 {
+  clrscr();
   printf("Hello, world!");
-  return 0;
+  getch();
 }
