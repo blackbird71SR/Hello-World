@@ -30,6 +30,9 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
+- [x] **APL**
+APL (named after the book A Programming Language) is a programming language developed in the 1960s by Kenneth E. Iverson. Its central datatype is the multidimensional array. It uses a large range of special graphic symbols to represent most functions and operators, leading to very concise code. It has been an important influence on the development of concept modeling, spreadsheets, functional programming, and computer math packages. It has also inspired several other programming languages
+
 - [x] **Assembly**
 An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
 
