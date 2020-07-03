@@ -174,6 +174,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **Ruby**
 
+- [x] **Ring**
+
+The Ring is an innovative and practical general-purpose multi-paradigm language. The supported programming paradigms are imperative, procedural, object-oriented, declarative using nested structures, functional, meta programming and natural programming. The language is portable (Windows, Linux, macOS, Android, etc.) and can be used to create Console, GUI, Web, Games and Mobile applications. The language is designed to be simple, small, flexible and fast.
+
 - [x] **Rust**
 
 - [x] **Scala**
