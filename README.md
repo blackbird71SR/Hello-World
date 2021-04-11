@@ -164,6 +164,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **PostScript**
 
+- [x] **PowerScript**
+
+PowersScript is the scripting language used by the PowerBuilder Integrated Development Environment.
+
 - [x] **PowerShell**
 
 - [x] **Prolog**
