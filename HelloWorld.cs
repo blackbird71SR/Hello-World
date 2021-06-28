@@ -6,7 +6,19 @@ namespace helloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            if(args.Length > 0) {
+                if(args[0].Equals("TH")) {
+                    SayHelloInThai();
+                }
+            }
+            else {
+                Console.WriteLine("Hello World!");
+            }
+            
+        }
+
+        static void SayHelloInThai() {
+            Console.WriteLine("Swasdee !!!");
         }
     }
 }
