@@ -2,7 +2,7 @@
 
 # Hello-World
 
-Hello World in all possible programming languages
+Explore "Hello World" implementation in all possible programming languages.
 
 ## Aim
 
