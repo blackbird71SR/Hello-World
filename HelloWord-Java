@@ -1,0 +1,7 @@
+Public Class HelloWorld
+{
+  public static void main(srting[]args)
+  { 
+    System.out.print("Hello World");
+  }
+}
