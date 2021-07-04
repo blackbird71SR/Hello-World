@@ -59,6 +59,14 @@ C# is a general-purpose, multi-paradigm programming language encompassing strong
 
 C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language. It is therefore possible to code C++ in a "C style" or "object-oriented style." C++ is considered to be an intermediate-level language, as it encapsulates both high- and low-level language features. Initially, the language was called "C with classes" as it had all the properties of the C language with an additional concept of "classes."
 
+- [x] **C++/CLI**
+
+C++/CLI is language created for .NET Framework to make interoperability with C++ code easier.
+
+- [x] **CIL**
+
+CIL is the lowest-level human-readable programming language used in .NET Framework, .NET Core and Mono.
+
 - [x] **Cobol**
 
 COBOL is a compiled English-like computer programming language designed for business use. It is imperative, procedural and, since 2002, object-oriented. COBOL is primarily used in business, finance, and administrative systems for companies and governments.
@@ -102,6 +110,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **F#**
 
+F# is a strongly typed, multi-paradigm programming language, primarily being used on CLI - Common Language Infrastructure. It can also generate JavaScript and GPU code.
+
 - [x] **Fortran**
 
 - [x] **Go**
@@ -119,6 +129,10 @@ Html Stands For Hypertext Markup Language (HTML) is the standard markup language
 - [x] **INTERCAL**
 
 INTERCAL was created in 1972 by two hackers from Princeton as a parody to satirizes various aspects of programming languages then. Anything that the compiler couldn't understand got skipped and the entire code read like someone pleading. The language was Turing-complete, and hence capable of implementing any algorithm. Though the programmer might be driven into advanced stages of insanity from the attempt.
+
+- [x] **IronPython**
+
+IronPython is an implementation of Python for .NET.
 
 - [x] **Java**
 
@@ -141,6 +155,10 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 - [x] **Lua**
 
 - [x] **Matlab**
+
+- [x] **Nemerle**
+
+Nemerle is language designed for CLI, similar to C# but with a powerful metaprogramming.
 
 - [x] **Nim**
 
