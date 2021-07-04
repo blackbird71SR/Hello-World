@@ -1,8 +1,9 @@
-#include <iostream>
-using namespace std;
+#include <iostream>  //header file to use print value(cout)
+using namespace std;  //using standards
 
-int main()
+int main() //main function or execution starts
 {
-    cout <<"\nHello World"<< endl;
-    return 0;
+    cout <<"\nHello World"<< endl;  //printing hello world 
+    
+    return 0; 
 }
