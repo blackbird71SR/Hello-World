@@ -1,0 +1,4 @@
+HAI 1.3
+  CAN HAS STDIO?
+  VISIBLE "Hello World"
+KTHXBYE
