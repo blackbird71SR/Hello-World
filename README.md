@@ -103,6 +103,7 @@ Erlang is a general purpose or you might say a functional programming language a
 - [x] **F#**
 
 - [x] **Fortran**
+A language for FORmula TRANslation.Invented by JohnBackus and his team at InternationalBusinessMachines roughly around 1956. It's one of the very earliest commercial high-level (cross-vendor) languages.
 
 - [x] **Go**
 
@@ -111,6 +112,7 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 - [x] **Groovy**
 
 - [x] **Haskell**
+Haskell is a purely FunctionalProgrammingLanguage using NonStrictSemantics (typically implemented as LazyEvaluation) and a polymorphic type system (an extension of the classical HindleyMilnerTypeInference algorithm).
 
 - [x] **HTML**
 
