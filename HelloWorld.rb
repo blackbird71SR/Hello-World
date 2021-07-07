@@ -1,1 +1,1 @@
-puts 'Hello World'
+puts 'dapat kaos' 
