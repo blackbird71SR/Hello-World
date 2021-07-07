@@ -1,8 +1,11 @@
 #include <iostream>
+#include <string>
+
 using namespace std;
 
 int main()
 {
-    cout <<"\nHello World"<< endl;
+    string message = "\nHello World";
+    cout << message << endl;
     return 0;
 }
