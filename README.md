@@ -74,6 +74,10 @@ CoffeeScript is a programming language that transcompiles to JavaScript. It adds
 
 Clojure is a dialect of the Lisp programming language. Clojure is a general-purpose programming language with an emphasis on functional programming. It runs on the Java virtual machine and the Common Language Runtime.
 
+- [x] **Cascading Style Sheets**
+
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
 - [x] **Crystal**
 
 Crystal is a programming language that is still under development which aims to provide a programming experience that is “Fast as C, slick as Ruby”.
@@ -153,6 +157,10 @@ Nim is a systems and applications programming language. Statically typed and com
 OCaml or Objective Caml, is a general purpose programming language with an emphasis on expressiveness and safety.
 
 - [x] **Pascal**
+
+- [x] **Pawn**
+
+Pawn is a simple, typeless, 32-bit extension language with a C-like syntax. A pawn "source" program is compiled to a binary file for optimal execution speed. The pawn compiler outputs P-code (or bytecode) that subsequently runs on an abstract machine. Execution speed, stability, simplicity and a small footprint were essential design criteria for both the language and the abstract machine.
 
 - [x] **Perl**
 
