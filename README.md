@@ -55,6 +55,8 @@ C is a high-level and general-purpose programming language that is ideal for dev
 
 C# is a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a standard by Ecma and ISO.
 
+- [x] **CMD - Windows Command Script**
+
 - [x] **C++**
 
 C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language. It is therefore possible to code C++ in a "C style" or "object-oriented style." C++ is considered to be an intermediate-level language, as it encapsulates both high- and low-level language features. Initially, the language was called "C with classes" as it had all the properties of the C language with an additional concept of "classes."
@@ -183,6 +185,10 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 The Shakespeare Programming Language is a programming language created with the design goal to make the source code resemble Shakespeare plays.  There are no fancy data or control structures, just basic arithmetic and gotos. The language combines the expressiveness of BASIC with the user-friendliness of assembly language, but is much more verbose.
 
 - [x] **Shell**
+
+- [x] **Small Basic**
+
+Microsoft Small Basic is a programming language and associated IDE. It is Microsoft's simplified variant of the BASIC programming language, intended as an easy programming language for beginners. The associated IDE provides a simplified programming environment with functionality such as syntax highlighting, intelligent code completion, and in-editor documentation access.
 
 - [x] **Solidity**
 

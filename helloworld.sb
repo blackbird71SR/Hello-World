@@ -1,0 +1,2 @@
+TextWindow.Title = "Hello World Window"
+TextWindow.WriteLine ("Hello World!")
