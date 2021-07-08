@@ -1,0 +1,3 @@
+(method ()
+            (print "Hello, World")
+ )
