@@ -6,4 +6,13 @@
   // if you want the variable data types as well use var_dump
   $stringVar = 'hello world';
   var_dump($stringVar);
-?>
+  
+  // if you want export varibale data into php-file use var_export
+  var_export($stringVar);
+  $myArray = array(
+    'Doe' => array(
+       10 => 'Joe', 
+       100 =>'Jahne'
+     )
+  );
+  var_export($myArray);
