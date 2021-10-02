@@ -172,6 +172,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **R**
 
+R is an open source language and environment for statistical computing and graphics. It provides functionality for data and storage handling, matrices calculations and data analysis and visualisation. 
+
 - [x] **Ruby**
 
 - [x] **Rust**
