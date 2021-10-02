@@ -30,11 +30,33 @@ This repository should eventually contain the famous "Hello World" program in al
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
+- [x] **ADA**
+It is a statically typed, structured, imperative programming language that is based on Pascal. A team of CII Honeywell Bull that was led by Jean Ichbiah developed Ada. The Ada compilers are validated for mission-critical systems. Ada is an internationally standardized computer programming language.
+
+- [x] **ALGOL**
+Algorithmic Language, as it is called, is actually a family of imperative programming languages that was developed in the middle 1950s. It proved instrumental in the creation of programming languages like BCPL, B and C. Ole-Johan Dahl and Kristen Nygaard of the Norwegian Computing Center in Oslo were the brains behind Simula.
+
+- [x] **APL**
+Named after the book A Programming Language (Iverson, Kenneth E., 1962), APL is an array programming language. It can work simultaneously on multiple arrays of data. It is interpretive, interactive and a functional programming language.
+
+- [x] **Apple Script**
+AppleScript is a scripting language created by Apple Inc. that facilitates automated control over scriptable Mac applications. First introduced in System 7, it is currently included in all versions of macOS as part of a package of system automation tools.
+
+- [x] **Arduino**
+Arduino language is merely a set of C/C++ functions that can be called from your code. Your sketch undergoes minor changes (e.g. automatic generation of function prototypes) and then is passed directly to a C/C++ compiler (avr-g++).
+
 - [x] **Assembly**
 An assembly language, often abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions. Each assembly language is specific to a particular computer architecture and operating system.
 
 - [x] **Autoit**
 AutoIt is a freeware automation language for Microsoft Windows. In its earliest release, the software was primarily intended to create automation scripts for Microsoft Windows programs but has since grown to include enhancements in both programming language design and overall functionality.
+
+- [x] **B**
+B is a programming language developed at Bell Labs circa 1969. It is the work of Ken Thompson with Dennis Ritchie. B was derived from BCPL, and its name may be a contraction of BCPL.
+
+- [x] **Bash**
+Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, it has been distributed widely as the default login shell for most Linux distributions and Apple's macOS. A version is also available for Windows 10.
+
 - [x] **BASIC**
 BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
   
@@ -43,6 +65,9 @@ BASIC is a family of general-purpose, high-level programming languages whose des
 - [x] **Batch**
 
 A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file.
+
+- [x] **BPCL**
+BCPL is a procedural, imperative, and structured computer programming language. Originally intended for writing compilers for other languages, BCPL is no longer in common use.
 
 - [x] **Brainfuck**
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
@@ -78,6 +103,9 @@ Clojure is a dialect of the Lisp programming language. Clojure is a general-purp
 
 Crystal is a programming language that is still under development which aims to provide a programming experience that is “Fast as C, slick as Ruby”.
 
+- [x] **CSS**
+Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
 - [x] **D**
 
 D is an object-oriented, imperative, multi-paradigm system programming language created by Walter Bright of Digital Mars and released in 2001. Bright was joined in the design and development effort in 2007 by Andrei Alexandrescu.
@@ -89,6 +117,9 @@ Dart is a general-purpose programming language originally developed by Google an
 - [x] **Delphi**
 
 Delphi is both an object oriented programming language (OOP) and an Integrated Development Environment (IDE). Published by the Embarcadero company (formerly CodeGear and more formerly Borland), Delphi is an alternative to language such as Visual Basic offering development with both rapidity and good quality. 
+
+-[x] **Dylan**
+Dylan is a multi-paradigm programming language that includes support for functional and object-oriented programming, and is dynamic and reflective while providing a programming model designed to support generating efficient machine code, including fine-grained control over dynamic and static behaviors.
 
 - [x] **Elixir**
 
@@ -102,7 +133,11 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **F#**
 
+- [x] **False**
+False is like ForthLanguage with one-character commands but with control structures replaced by ... It looks like it's more powerful than most esoteric languages.
+ 
 - [x] **Fortran**
+It is a procedural, imperative, general purpose computer programming language that works well for scientific computations and numeric operations. After IBM developed it in the 1950s, it soon gained popularity in programming. It is very popular in the field of high-performance computing. It is a structured and compiled programming language that is a subset of Fortran95. Fortran 2003, a revised version of Fortran supports object-oriented programming.
 
 - [x] **Go**
 
