@@ -47,6 +47,11 @@ A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It con
 - [x] **Brainfuck**
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
 
+- [x] **BrightScript**
+
+	Roku BrightScript is a powerful scripting language that makes it easy and quick to build media and networked applications for 		embedded devices. The language has integrated support for BrightScript Components, a library of lightweight components. The APIs 	 of the platform (device) BrightScript is running on are all exposed to BrightScript as BrightScript Components.
+	**Reference:** https://sdkdocs.roku.com/display/sdkdoc/BrightScript+Language+Reference
+
 - [x] **C**
 
 C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
@@ -202,6 +207,13 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **VB.NET**
 
+- [x] **VHDL**
+	
+	- VHDL is a horrible acronym. It stands for VHSIC Hardware Description Language. An acronym inside an acronym,
+	  awesome! VHSIC stands for Very High Speed Integrated Circuit.Therefore, VHDL expanded is Very High Speed Integrated Circuit      	  Hardware Description Language.
+	- A VHDL program is written in a text file and has the extension **“.vhd”** (sometimes, “.vhdl”). 
+	- Reference for VHDL tutorials :
+	   https://www.nandland.com/vhdl/tutorials/tutorial-introduction-to-vhdl-for-beginners.html
 - [x] **Whitespace**
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
