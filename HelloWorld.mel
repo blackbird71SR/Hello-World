@@ -1,0 +1,3 @@
+global proc msg() {
+	print("Hello world\n");
+}
