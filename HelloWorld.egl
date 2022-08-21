@@ -1,0 +1,6 @@
+Program Hello
+   const MYVAR string = "Hello World!";
+   function main()
+      SysLib.writeStdOut(MYVAR);
+   end     
+ end
