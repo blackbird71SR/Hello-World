@@ -2,7 +2,7 @@
 
 # Hello-World
 
-Hello World in all possible programming languages
+Hello World in all possible programming languages with their short descriptions
 
 ## Aim
 
@@ -104,6 +104,8 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **Fortran**
 
+As fortran had different version, there are different *.f files in this repository.
+
 - [x] **Go**
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
@@ -183,6 +185,7 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 The Shakespeare Programming Language is a programming language created with the design goal to make the source code resemble Shakespeare plays.  There are no fancy data or control structures, just basic arithmetic and gotos. The language combines the expressiveness of BASIC with the user-friendliness of assembly language, but is much more verbose.
 
 - [x] **Shell**
+Added simply an echo saying Hello World
 
 - [x] **Solidity**
 
